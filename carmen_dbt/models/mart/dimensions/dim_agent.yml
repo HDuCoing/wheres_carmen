@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_agent
+    description: Dimension table for agents.
+    columns:
+      - name: agent_id
+        description: Surrogate key for agent.
+        tests:
+          - unique
+          - not_null
+      - name: agent
+        description: "{{ doc('agent') }}"

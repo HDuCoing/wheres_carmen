@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: Date dimension created from both date_witness and date_agent.
+    columns:
+      - name: date_id
+        description: Surrogate key for date.
+        tests:
+          - unique
+          - not_null
+      - name: date
+        description: "{{ doc('date') }}"

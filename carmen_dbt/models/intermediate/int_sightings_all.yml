@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: int_sightings_all
-    description: "This model combines all staging models into a single table for analysis purposes."
+    description: "This models purpose is to transform all the stage models into a single table that can be funnelled into the mart layer."
     columns:
       - name: date_witness
         description: "{{ doc('date_witness') }}"
@@ -30,3 +30,5 @@ models:
         description: "{{ doc('has_jacket') }}"
       - name: behavior
         description: "{{ doc('behavior') }}"
+      - name: region
+        description: "The region where the sighting occurred, derived from the source model name."

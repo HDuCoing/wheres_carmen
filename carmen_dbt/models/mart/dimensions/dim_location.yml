@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: dim_location
+    description: Dimension table for unique sighting locations.
+    columns:
+      - name: location_id
+        description: Surrogate key for location.
+        tests:
+          - unique
+          - not_null
+      - name: latitude
+        description: "{{ doc('latitude') }}"
+      - name: longitude
+        description: "{{ doc('longitude') }}"
+      - name: city
+        description: "{{ doc('city') }}"
+      - name: country_code
+        description: "{{ doc('country_code') }}"

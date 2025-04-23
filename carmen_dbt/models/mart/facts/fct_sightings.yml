@@ -1,0 +1,62 @@
+version: 2
+
+models:
+  - name: fct_sightings
+    description: Fact table containing sighting events for carmen. There are unique foreign keys for each dimension table.
+    columns:
+      - name: agent_id
+        description: Foreign key to dim_agent.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_agent')
+              field: agent_id
+
+      - name: witness_id
+        description: Foreign key to dim_witness.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_witness')
+              field: witness_id
+
+      - name: behavior_id
+        description: Foreign key to dim_behavior.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_behavior')
+              field: behavior_id
+
+      - name: witness_date_id
+        description: Foreign key to dim_date (witness date).
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_id
+
+      - name: agent_date_id
+        description: Foreign key to dim_date (agent date).
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_id
+
+      - name: location_id
+        description: Foreign key to dim_location.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_location')
+              field: location_id
+
+      - name: has_weapon
+        description: "{{ doc('has_weapon') }}"
+
+      - name: has_hat
+        description: "{{ doc('has_hat') }}"
+
+      - name: has_jacket
+        description: "{{ doc('has_jacket') }}"

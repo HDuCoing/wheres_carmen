@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_behavior
+    description: Dimension table for behaviors.
+    columns:
+      - name: behavior_id
+        description: Surrogate key for behavior.
+        tests:
+          - unique
+          - not_null
+      - name: behavior
+        description: "{{ doc('behavior') }}"

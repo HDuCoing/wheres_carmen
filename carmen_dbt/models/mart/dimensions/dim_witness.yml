@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_witness
+    description: Dimension table for witnesses.
+    columns:
+      - name: witness_id
+        description: Surrogate key for witness.
+        tests:
+          - unique
+          - not_null
+      - name: witness
+        description: "{{ doc('witness') }}"
