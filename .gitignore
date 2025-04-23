@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency directories
+.mypy_cache/
+.pytest_cache/
