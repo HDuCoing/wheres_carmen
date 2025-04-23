@@ -1,38 +1,38 @@
 
-# Name your project! Project names should contain only lowercase characters
-# and underscores. A good package name should reflect your organization's
-# name or the intended use of these models
+# Project name, version, and profile (configured in profiles.yml)
+# Full documentation: https://docs.getdbt.com/docs/dbt-project-yml
 name: 'carmen_dbt'
 version: '1.0.0'
 
-# This setting configures which "profile" dbt uses for this project.
 profile: 'carmen_dbt'
 
-# These configurations specify where dbt should look for different types of files.
-# The `model-paths` config, for example, states that models in this project can be
-# found in the "models/" directory. You probably won't need to change these!
+# Paths in which files are located
+# Full documentation: https://docs.getdbt.com/docs/dbt-project-yml#paths
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
 seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
+docs-paths: ["docs"]
 
-clean-targets:         # directories to be removed by `dbt clean`
+# Cleans these folders when running `dbt clean`
+# Full documentation: https://docs.getdbt.com/docs/dbt-project-yml#clean-targets
+clean-targets:
   - "target"
   - "dbt_packages"
 
-
-# Configuring models
-# Full documentation: https://docs.getdbt.com/docs/configuring-models
-
-# In this example config, we tell dbt to build all models in the example/
-# directory as views. These settings can be overridden in the individual model
-# files using the `{{ config(...) }}` macro.
+# Model folders within the project and their materialization overhauls
 models:
   carmen_dbt:
   # Marts materliaze as views for reporting purposes
     mart:
       +materialized: view
+seeds:
+  carmen_dbt:
+    +schema: raw
+
+# Dbt cloud configuration
+# Full documentation: https://docs.getdbt.com/docs/dbt-cloud/dbt-cloud-cli
 dbt-cloud:
     project-id: 70471823463035

@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: int_sightings_all
+    description: "This model combines all staging models into a single table for analysis purposes."
+    columns:
+      - name: date_witness
+        description: "{{ doc('date_witness') }}"
+      - name: date_agent
+        description: "{{ doc('date_agent') }}"
+      - name: witness
+        description: "{{ doc('witness') }}"
+      - name: agent
+        description: "{{ doc('agent') }}"
+      - name: latitude
+        description: "{{ doc('latitude') }}"
+      - name: longitude
+        description: "{{ doc('longitude') }}"
+      - name: city
+        description: "{{ doc('city') }}"
+      - name: country_code
+        description: "{{ doc('country_code') }}"
+      - name: city_agent
+        description: "{{ doc('city_agent') }}"
+      - name: has_weapon
+        description: "{{ doc('has_weapon') }}"
+      - name: has_hat
+        description: "{{ doc('has_hat') }}"
+      - name: has_jacket
+        description: "{{ doc('has_jacket') }}"
+      - name: behavior
+        description: "{{ doc('behavior') }}"
