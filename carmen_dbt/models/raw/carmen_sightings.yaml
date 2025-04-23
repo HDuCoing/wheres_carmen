@@ -1,0 +1,464 @@
+version: 2
+
+sources:
+  - name: carment_sightings
+    description: "Carmen sightings data from the Carmen seeds"
+    database: carmen      # Optional, only if you're overriding the target
+    schema: raw
+    tables:
+      - name: carmen_sightings_africa
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_america 
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_asia
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_atlantic
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_australia
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_europe 
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_indian
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            
+      - name: carmen_sightings_pacific
+        description: "Carmen sightings data from the Carmen seeds"
+        columns:
+          - name: date_witness
+            description: "Date of the sighting"
+            tests:
+              - not_null
+              - unique
+          - name: date_agent
+            description: "Date of the agent"
+            tests:
+              - not_null
+          - name: witness
+            description: "Witness of the sighting"
+            tests:
+              - not_null
+          - name: agent
+            description: "Agent of the sighting"
+            tests:
+              - not_null
+          - name: latitude
+            description: "Latitude of the sighting"
+            tests:
+              - not_null
+          - name: longitude
+            description: "Longitude of the sighting"
+            tests:
+              - not_null
+          - name: city
+            description: "City of the sighting"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Country code of the sighting"
+            tests:
+              - not_null
+          - name: city_agent
+            description: "City of the agent"
+            tests:
+              - not_null
+          - name: has_weapon
+            description: "Has weapon"
+            tests:
+              - not_null
+          - name: has_hat
+            description: "Has hat"
+            tests:
+              - not_null
+          - name: has_jacket
+            description: "Has jacket"
+            tests:
+              - not_null
+          - name: behavior
+            description: "Behavior of the agent"
+            tests:
+              - not_null
+            

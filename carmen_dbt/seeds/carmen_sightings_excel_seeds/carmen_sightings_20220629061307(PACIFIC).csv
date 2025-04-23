@@ -1,0 +1,67 @@
+sight_on,file_on,sighter,filer,lat,long,town,nation,report_office,has_weapon,has_hat,has_jacket,behavior
+1992-10-30,1992-11-25,Justin Hernandez,Lauren Mccoy,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,over-complimenting
+1999-01-21,1999-03-03,Anna Huynh,Lori Lowery,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,FALSE,TRUE,evasive
+2011-10-30,2011-11-04,Susan Duran,James Williams,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,scared
+2004-12-28,2005-01-30,Andrea Randall,Jeremy Moran,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,tense
+1993-11-20,1993-12-24,Debra Morris,Patricia Miller,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,panicking
+2008-11-03,2008-11-17,Steven Hudson,Chad Chandler,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,panicking
+2013-08-12,2013-09-16,Alexander Lee,Anthony Hamilton,-17.73648,168.31366,Port-Vila,VU,Efate,TRUE,FALSE,TRUE,over-complimenting
+2017-10-21,2017-10-27,Emma Newman,Shawn Ramirez,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,lonely
+2012-05-01,2012-05-23,Frank Cooper,Taylor Robinson,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,FALSE,FALSE,complaining
+2000-10-21,2000-12-10,Stacy Montgomery,Kristin Werner,20.88953,-156.47432,Kahului,US,Honolulu,TRUE,TRUE,TRUE,lonely
+2015-07-12,2015-08-05,Joseph White,Joseph Moore DVM,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,FALSE,TRUE,over-complimenting
+1995-06-27,1995-08-18,Kelly Miller,Stacey Morris,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,accusatory
+2021-04-29,2021-05-25,Elizabeth Frost,Christopher Ross,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,FALSE,FALSE,friendly
+2006-09-11,2006-10-12,Alice Wright,Chad Chandler,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,FALSE,TRUE,paranoid
+1997-03-27,1997-05-04,Jacob Osborne,Julia Reynolds,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,tense
+2009-10-28,2009-11-08,Daniel Turner,Lauren Smith,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,silent
+1998-06-21,1998-08-06,George Johnson,Maurice Mccarthy,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,scared
+1990-01-12,1990-02-17,Sarah Johnson,Mr. James Hooper,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,FALSE,TRUE,sad
+1994-12-11,1995-01-12,Karen Morris,Kayla Klein,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,tense
+2018-08-26,2018-10-12,Manuel Smith,Brandy White,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,FALSE,TRUE,panicking
+2004-02-06,2004-03-24,Melanie Young,Stephanie Brooks,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,over-complimenting
+2006-10-05,2006-10-18,Kevin Meadows,Patricia Hall,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,hostile
+2014-01-22,2014-01-22,John Tran,Elizabeth Cooper,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,TRUE,TRUE,paranoid
+1987-11-06,1987-12-05,Alicia Bryant,Phillip Quinn,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,unhappy
+1998-08-20,1998-09-18,Linda Santana,Eugene Brown,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,panicking
+1994-11-14,1994-12-10,John Gonzalez,Brandy White,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,FALSE,TRUE,paranoid
+2008-12-09,2009-02-03,Misty Rodriguez,Christopher Morrison,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,insulting
+1998-01-23,1998-02-13,Andrew Johnson,Jacob Carlson,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,FALSE,TRUE,insulting
+2003-03-13,2003-04-02,Elijah Frazier,William Barton,-38.65333,178.00417,Gisborne,NZ,Auckland,TRUE,FALSE,TRUE,scared
+2013-09-29,2013-10-11,Angela Scott,Bryce Alvarado,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,TRUE,TRUE,complaining
+2003-05-21,2003-06-21,Angelica Baker,Michael Tate,20.88953,-156.47432,Kahului,US,Honolulu,TRUE,TRUE,TRUE,lonely
+1986-01-11,1986-01-25,Ann Irwin,Patricia Miller,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,unhappy
+1987-03-12,1987-03-24,Lindsey Walker,Julian Anderson,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,FALSE,TRUE,injured
+1996-03-07,1996-04-05,Jennifer Acosta,Joshua Reed,-38.65333,178.00417,Gisborne,NZ,Auckland,TRUE,TRUE,TRUE,unhappy
+1996-10-30,1996-11-12,Patrick Walker,Micheal Thomas,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,FALSE,TRUE,worried
+2004-05-12,2004-07-04,Shane Melton,Christina Krause,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,scared
+2020-10-24,2020-10-26,Amanda Mcintosh,Katelyn Cook,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,hostile
+2011-08-31,2011-09-08,Maurice Diaz,Thomas Hamilton,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,out-of-control
+2006-03-07,2006-03-28,Raymond Jenkins,Ray Hall,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,FALSE,TRUE,paranoid
+1985-09-22,1985-10-15,Michael Bell,Evelyn Hines,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,silent
+2012-09-28,2012-10-13,Louis Snyder,Patricia Edwards,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,FALSE,FALSE,fleeing
+2007-11-20,2007-12-30,Michael Mitchell,Michael Webb,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,FALSE,TRUE,paranoid
+2005-01-05,2005-01-06,Brendan Bryant,Kendra Mercado,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,unhappy
+2015-03-27,2015-05-15,Lisa Schneider,Dominic Peters,-38.65333,178.00417,Gisborne,NZ,Auckland,FALSE,TRUE,TRUE,friendly
+1989-08-24,1989-10-16,Matthew Harrison,Stephen Mills,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,TRUE,TRUE,unhappy
+1995-10-03,1995-11-14,Lauren Young,Thomas Hamilton,20.88953,-156.47432,Kahului,US,Honolulu,TRUE,TRUE,TRUE,panicking
+1985-05-31,1985-07-29,Rebecca Brown,Bradley Ewing,-17.73648,168.31366,Port-Vila,VU,Efate,TRUE,TRUE,TRUE,insulting
+1994-08-07,1994-09-26,Barbara Williams,Kimberly Woods,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,FALSE,TRUE,sad
+2001-03-02,2001-04-12,Michael Brown,Latasha Norris,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,insulting
+1988-12-22,1989-02-10,Ronald Mejia,Brandi Jones,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,scared
+1994-07-30,1994-08-08,Elizabeth Morris,Gordon Jimenez,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,unhappy
+1990-12-12,1990-12-26,John Sullivan,Christopher Miller,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,silent
+2006-03-11,2006-04-10,Erik Turner,Mr. Rodney Franco,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,tense
+2013-05-14,2013-06-04,Debbie Lambert,Misty Marshall,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,scared
+1989-04-01,1989-05-04,Mitchell Mcbride,Kelly Barnes,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,TRUE,TRUE,TRUE,friendly
+2015-04-29,2015-06-19,Richard James,Patricia Miller,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,sad
+2001-01-19,2001-02-18,Kenneth Taylor,Kimberly Cooper,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,happy
+2020-01-28,2020-02-18,Taylor Kelley,Janice Carroll,-17.73648,168.31366,Port-Vila,VU,Efate,FALSE,TRUE,TRUE,sad
+1987-11-25,1988-01-11,David Bean,Joshua Moore,-44.39672,171.25364,Timaru,NZ,Auckland,TRUE,TRUE,TRUE,unhappy
+1999-04-02,1999-04-27,Deborah Lopez,James Kennedy,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,injured
+2015-06-15,2015-08-06,Nicole Cruz,Donna Martin,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,TRUE,TRUE,injured
+1992-08-06,1992-08-14,Travis Hudson,Angelica Chan,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,scared
+2007-05-08,2007-05-08,Anita Murray,Charles Walls,20.88953,-156.47432,Kahului,US,Honolulu,FALSE,FALSE,TRUE,complaining
+1985-11-29,1985-11-29,Alice Nelson,Kaitlyn Johns,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,TRUE,TRUE,over-complimenting
+2012-02-04,2012-03-22,Amanda Navarro,Christopher Morris,-5.85746,144.23058,Mount Hagen,PG,Port Moresby,FALSE,TRUE,TRUE,oblivious
+1999-10-27,1999-12-25,Kimberly Navarro,John Carlson,-44.39672,171.25364,Timaru,NZ,Auckland,FALSE,FALSE,TRUE,unhappy
