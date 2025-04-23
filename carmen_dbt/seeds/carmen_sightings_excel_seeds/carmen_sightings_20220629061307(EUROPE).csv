@@ -31,7 +31,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1987-02-28,1987-04-24,Samuel Davis,Frank Gutierrez,53.63333,9.85,Halstenbek,DE,Berlin,FALSE,TRUE,TRUE,scared
 2018-01-20,2018-02-26,Laura Montoya,Larry Wiggins,53.43333,-7.95,Athlone,IE,Dublin,FALSE,TRUE,TRUE,worried
 2016-06-17,2016-08-13,Brandon Pearson,Amanda Brown,50.88506,4.07601,Denderleeuw,BE,Brussels,FALSE,FALSE,TRUE,evasive
-2007-05-09,2007-05-18,Emily Thomas,Glen Walker,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,TRUE,paranoid
+2007-05-09,2007-05-18,Emily Thomas,Glen Walker,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,paranoid
 2020-09-20,2020-10-23,Kevin White,Julia Cannon,40.87329,14.43865,Somma Vesuviana,IT,Rome,FALSE,FALSE,TRUE,worried
 1990-11-08,1990-12-14,William Lee,Monica Davis,54.58048,16.86194,Ustka,PL,Warsaw,FALSE,FALSE,TRUE,happy
 1989-05-02,1989-06-23,Tyler Massey,Tiffany Morrison,50.18545,27.06365,Shepetivka,UA,Kiev,FALSE,FALSE,TRUE,silent
@@ -168,7 +168,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1994-10-12,1994-11-15,Becky Henry DDS,Christopher Miller,42,21.32778,Saraj,MK,Skopje,FALSE,TRUE,TRUE,insulting
 1992-08-07,1992-09-12,Christina Ramos,Misty Marshall,48.25,16.4,Floridsdorf,AT,Vienna,FALSE,FALSE,TRUE,oblivious
 2020-05-05,2020-06-12,Richard Stanley,Barbara Bailey,37.31309,40.74357,Mardin,TR,Istanbul,FALSE,TRUE,FALSE,injured
-2000-04-16,2000-04-18,Sara Blackwell,Eugene Brown,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,accusatory
+2000-04-16,2000-04-18,Sara Blackwell,Eugene Brown,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,accusatory
 2003-05-03,2003-06-01,Jessica Rodriguez,Brendan Love,48.43174,17.8031,Hlohovec,SK,Bratislava,FALSE,TRUE,TRUE,paranoid
 2017-01-19,2017-03-17,Angela Cooper,Brett Scott,50.80904,8.77069,Marburg an der Lahn,DE,Berlin,FALSE,TRUE,TRUE,tense
 1999-12-31,2000-02-12,Brittany Jordan,Nancy White,47.98372,10.18527,Memmingen,DE,Berlin,FALSE,TRUE,FALSE,panicking
@@ -311,7 +311,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2021-04-16,2021-05-23,Natalie Ingram,Sarah Reynolds,38.38479,-0.76773,Novelda,ES,Madrid,FALSE,FALSE,TRUE,injured
 1997-02-22,1997-04-03,Shannon Rodriguez,Anthony Harris,53.93361,37.92792,Kireyevsk,RU,Moscow,FALSE,FALSE,TRUE,paranoid
 2022-04-19,2022-06-09,Kathleen Cummings,Joshua Guzman,37.49223,15.07041,Catania,IT,Rome,FALSE,FALSE,TRUE,accusatory
-2011-11-06,2011-11-21,Laura Campbell,Emily Stephens,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,accusatory
+2011-11-06,2011-11-21,Laura Campbell,Emily Stephens,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,accusatory
 2017-08-29,2017-08-31,Adrian Campbell,William Zuniga,52.21099,7.02238,Gronau,DE,Berlin,FALSE,TRUE,TRUE,talkative
 2018-03-02,2018-03-30,Carol Underwood,Beth Cuevas,42.64685,-5.55835,Villaquilambre,ES,Madrid,FALSE,FALSE,TRUE,injured
 1985-06-09,1985-06-10,Allison Duran,Candice Johnson,52.66277,-2.01111,Great Wyrley,GB,London,FALSE,FALSE,TRUE,sad
@@ -349,7 +349,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2020-02-07,2020-04-05,Grace Simpson,David Strong,50.76306,-1.29772,Cowes,GB,London,FALSE,TRUE,TRUE,oblivious
 1997-07-30,1997-09-13,Christina Parker,Kerri Clay,48.77644,2.29026,Sceaux,FR,Paris,FALSE,FALSE,TRUE,tense
 1989-10-20,1989-11-20,Jessica Carson,Nicole Hinton,48.15659,28.28489,Soroca,MD,Chisinau,FALSE,TRUE,TRUE,lonely
-2008-04-11,2008-05-07,Michael Watkins,Chad Graham,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,paranoid
+2008-04-11,2008-05-07,Michael Watkins,Chad Graham,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,paranoid
 1986-06-22,1986-06-22,William Jenkins,Denise Johnson,49.41029,38.15035,Svatove,UA,Zaporozhye,FALSE,TRUE,TRUE,worried
 2018-06-09,2018-06-11,Linda Miller,Thomas Hamilton,48.46458,9.22796,Pfullingen,DE,Berlin,FALSE,FALSE,TRUE,friendly
 2021-08-10,2021-09-07,John Norris,Jason Mccarthy,39.96348,-4.83076,Talavera de la Reina,ES,Madrid,FALSE,FALSE,TRUE,lonely
@@ -376,7 +376,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2020-11-01,2020-12-10,Robert Ramirez,Teresa Diaz,53.6052,10.03988,Barmbek-Nord,DE,Berlin,TRUE,TRUE,TRUE,silent
 2017-04-22,2017-05-23,Sarah Barton,Dean Martinez,43.48961,-8.2194,Ferrol,ES,Madrid,FALSE,FALSE,TRUE,injured
 2019-02-18,2019-03-14,Trevor Miller,Kelly Drake,53.53041,43.67663,Nizhniy Lomov,RU,Moscow,FALSE,TRUE,TRUE,fleeing
-1986-01-28,1986-02-03,Deborah Olson,Larry King,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,FALSE,TRUE,scared
+1986-01-28,1986-02-03,Deborah Olson,Larry King,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,FALSE,TRUE,scared
 2017-07-07,2017-08-22,Rachel Young,Billy White,50.82709,6.9747,Wesseling,DE,Berlin,FALSE,FALSE,TRUE,friendly
 2018-09-07,2018-10-24,Morgan Barber,Emily Stephens,51.03427,5.37429,Houthalen,BE,Brussels,FALSE,FALSE,TRUE,out-of-control
 1997-12-04,1997-12-20,Victoria Weber,Elizabeth Cooper,48.86667,2.08333,Marly-le-Roi,FR,Paris,FALSE,TRUE,TRUE,tense
@@ -397,7 +397,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1994-06-17,1994-07-16,Melissa Jones,Larry Braun,50.5107,18.30056,Strzelce Opolskie,PL,Warsaw,TRUE,FALSE,TRUE,paranoid
 1990-05-27,1990-07-09,Max Delacruz,Kimberly Perez,52.59319,13.32127,Wittenau,DE,Berlin,FALSE,TRUE,TRUE,accusatory
 1997-08-22,1997-10-15,Danielle Sanchez,Marie Hernandez,55.38752,36.73307,Naro-Fominsk,RU,Moscow,FALSE,TRUE,TRUE,hostile
-1987-03-10,1987-04-27,Thomas Lozano,Justin Whitehead,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,TRUE,paranoid
+1987-03-10,1987-04-27,Thomas Lozano,Justin Whitehead,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,paranoid
 2015-12-28,2016-02-05,Jonathan Barrett,Larry King,51.12794,4.21372,Temse,BE,Brussels,FALSE,TRUE,TRUE,scared
 2014-03-16,2014-04-26,Pamela Blanchard,Nathaniel Jackson,50.7236,-3.52751,Exeter,GB,London,FALSE,FALSE,TRUE,over-complimenting
 1998-07-15,1998-08-07,Caroline Lopez,Tammy Bruce,52.21099,7.02238,Gronau,DE,Berlin,FALSE,FALSE,TRUE,scared
@@ -542,7 +542,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1987-04-15,1987-05-01,Matthew Jennings,Kelly Barnes,41.15612,1.10687,Reus,ES,Madrid,FALSE,TRUE,TRUE,insulting
 2016-08-28,2016-09-12,Ronnie Clark,Veronica Richards,60.2052,24.6522,Espoo,FI,Helsinki,FALSE,FALSE,TRUE,paranoid
 2006-08-25,2006-09-24,James Guerra,Martin Diaz,51.67822,33.9162,Hlukhiv,UA,Kiev,FALSE,FALSE,TRUE,oblivious
-2016-09-25,2016-10-25,Jeffrey Taylor,Mr. Shannon Sharp,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,confessing
+2016-09-25,2016-10-25,Jeffrey Taylor,Mr. Shannon Sharp,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,confessing
 1996-08-30,1996-10-18,Peggy Hayes,Kim Dyer,50.71229,4.52529,Rixensart,BE,Brussels,FALSE,TRUE,TRUE,accusatory
 2018-10-13,2018-10-20,David Coleman,Kaitlyn Booker,50.75932,25.34244,Lutsk,UA,Kiev,FALSE,TRUE,TRUE,accusatory
 1991-09-03,1991-09-29,Andre Dominguez,Dawn Pierce,54.58048,16.86194,Ustka,PL,Warsaw,FALSE,TRUE,TRUE,insulting
@@ -575,7 +575,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2013-08-24,2013-09-11,Robert Green,Evelyn Hines,48.35149,8.96317,Hechingen,DE,Berlin,FALSE,TRUE,TRUE,unhappy
 1991-07-26,1991-09-19,Alyssa Hanson,Sharon Young,52.53048,13.29371,Charlottenburg-Nord,DE,Berlin,FALSE,TRUE,TRUE,out-of-control
 1999-09-07,1999-10-11,Kathleen Webster,Kevin Martin,44.22639,22.53083,Negotin,RS,Belgrade,FALSE,TRUE,TRUE,happy
-2017-08-02,2017-09-06,Danielle Hobbs,Sandra Ramos,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,FALSE,TRUE,silent
+2017-08-02,2017-09-06,Danielle Hobbs,Sandra Ramos,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,silent
 2009-08-27,2009-08-31,Jennifer Pope,Margaret Ortega,41.57439,24.71204,Smolyan,BG,Sofia,FALSE,FALSE,TRUE,paranoid
 2004-01-12,2004-03-02,Jennifer Chapman,Dawn Lopez,52.2,8.63333,Kirchlengern,DE,Berlin,FALSE,TRUE,TRUE,out-of-control
 1998-11-29,1998-12-14,Jennifer Franklin,Jacob Santiago,43.2907,5.4384,Marseille 11,FR,Paris,FALSE,FALSE,TRUE,over-complimenting
@@ -708,7 +708,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1987-08-23,1987-10-01,Dr. Mary Jackson,Kimberly Gibson,39.12074,27.18052,Bergama,TR,Istanbul,TRUE,TRUE,TRUE,paranoid
 1993-12-01,1994-01-19,Ronald Little,Bethany Chen,48.49144,9.20427,Reutlingen,DE,Berlin,FALSE,FALSE,TRUE,over-complimenting
 1999-11-25,1999-12-06,Clayton Carlson,Angelica Chan,48.86667,2.08333,Marly-le-Roi,FR,Paris,FALSE,FALSE,FALSE,oblivious
-1996-04-10,1996-05-08,Scott Bell,Alexandra Jones,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,FALSE,paranoid
+1996-04-10,1996-05-08,Scott Bell,Alexandra Jones,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,FALSE,paranoid
 1987-03-18,1987-03-22,Bryce Jones,Nicole Adams,48.8222,2.12213,Le Chesnay,FR,Paris,FALSE,FALSE,TRUE,sad
 2001-04-21,2001-05-26,Ashley Hernandez,Scott Nixon,43.96222,43.63417,Novopavlovsk,RU,Moscow,FALSE,FALSE,TRUE,silent
 2011-09-05,2011-10-16,Timothy Vazquez,Kimberly Woods,44.59445,11.04979,Castelfranco Emilia,IT,Rome,FALSE,FALSE,TRUE,out-of-control
@@ -1081,7 +1081,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2001-05-12,2001-06-01,Jim Flores,Tracy Blackwell,50.82709,6.9747,Wesseling,DE,Berlin,FALSE,TRUE,TRUE,fleeing
 1993-09-22,1993-10-27,Erin Carlson,Sherry Aguilar,43.96222,43.63417,Novopavlovsk,RU,Moscow,TRUE,TRUE,TRUE,worried
 2002-09-21,2002-10-08,Michael Mccarthy,Tiffany Bennett,37.05944,37.3825,Gaziantep,TR,Istanbul,FALSE,FALSE,TRUE,accusatory
-1998-01-16,1998-03-11,Tyler Beard,John Wright,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,FALSE,TRUE,fleeing
+1998-01-16,1998-03-11,Tyler Beard,John Wright,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,fleeing
 1989-12-21,1990-02-07,Jordan Miller,Lauren Smith,51.21667,6.26667,Schwalmtal,DE,Berlin,FALSE,FALSE,TRUE,talkative
 1990-09-04,1990-09-04,Devin Wilson,Michael Barron,40.98894,28.67582,Yakuplu,TR,Istanbul,TRUE,TRUE,TRUE,evasive
 1993-12-22,1994-01-28,Ann Baker,Donald Pierce,38.96667,-0.18333,Gandia,ES,Madrid,FALSE,TRUE,TRUE,friendly
@@ -1114,9 +1114,9 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2019-10-17,2019-11-05,Molly Nichols,Dr. Gregory Gibson,47.98372,10.18527,Memmingen,DE,Berlin,FALSE,FALSE,TRUE,out-of-control
 2010-10-27,2010-11-25,Jessica Vega,Charlene Mccormick,44.89784,8.86374,Tortona,IT,Rome,FALSE,FALSE,TRUE,injured
 2003-06-19,2003-08-01,Brian Anderson,David Strong,68.79833,16.54165,Harstad,NO,Oslo,FALSE,TRUE,TRUE,evasive
-1990-11-13,1990-12-04,Brooke Baker,Melinda Evans,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,TRUE,hostile
+1990-11-13,1990-12-04,Brooke Baker,Melinda Evans,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,hostile
 2018-12-11,2019-01-12,Ryan Murray,Brett Wood,47.98372,10.18527,Memmingen,DE,Berlin,FALSE,TRUE,TRUE,worried
-2020-04-21,2020-05-24,Jennifer Hill,Ryan Wilkinson,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,friendly
+2020-04-21,2020-05-24,Jennifer Hill,Ryan Wilkinson,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,friendly
 2008-01-30,2008-03-06,Thomas Smith,Charles Mitchell,41.1053,-7.32097,Custoias,PT,Lisbon,FALSE,TRUE,TRUE,happy
 1992-06-09,1992-07-11,Larry Soto,Regina Henderson,57.14369,-2.09814,Aberdeen,GB,London,TRUE,TRUE,TRUE,silent
 2014-01-30,2014-02-21,Ernest Martinez,Ashley Larson,52.21099,7.02238,Gronau,DE,Berlin,FALSE,FALSE,TRUE,lonely
@@ -1240,7 +1240,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2000-02-13,2000-03-14,Elizabeth Martinez,Robert Merritt,48.79325,2.29275,Fontenay-aux-Roses,FR,Paris,FALSE,FALSE,TRUE,injured
 2007-01-14,2007-02-23,Jimmy Phillips,Lacey Brown,37.13548,-3.67029,Las Gabias,ES,Madrid,FALSE,TRUE,TRUE,evasive
 1985-07-31,1985-08-24,Melissa Perez,Megan West,43.61058,1.33467,Colomiers,FR,Paris,FALSE,FALSE,TRUE,scared
-2017-04-25,2017-05-20,Mr. Mark Golden,Kimberly Stewart,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,FALSE,TRUE,sad
+2017-04-25,2017-05-20,Mr. Mark Golden,Kimberly Stewart,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,sad
 2004-03-21,2004-04-06,Karen Olson,Julie Lopez,51.08468,7.11393,Burscheid,DE,Berlin,FALSE,FALSE,TRUE,insulting
 2017-10-11,2017-11-22,James Hood,Michael Tate,44.59445,11.04979,Castelfranco Emilia,IT,Rome,FALSE,TRUE,TRUE,scared
 1992-08-22,1992-09-06,Cassandra Garcia,Jeremy Mccullough,50.23019,8.77155,Karben,DE,Berlin,FALSE,TRUE,TRUE,tense
@@ -1432,8 +1432,8 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2005-10-20,2005-12-06,Nicole Carson,Diana Torres,47.56494,31.33078,Voznesensk,UA,Kiev,FALSE,TRUE,TRUE,lonely
 2015-06-01,2015-07-27,Jeremy Ellis,Elizabeth Cook,50.23805,8.86704,Nidderau,DE,Berlin,FALSE,TRUE,TRUE,talkative
 2000-09-10,2000-09-15,Ashley Aguilar,Angelica Chan,41.57439,24.71204,Smolyan,BG,Sofia,FALSE,FALSE,TRUE,insulting
-2009-12-30,2010-02-15,Brian Miller,Brett Scott,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,confessing
-2018-11-05,2018-11-07,Anthony Crane,Larry King,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,FALSE,insulting
+2009-12-30,2010-02-15,Brian Miller,Brett Scott,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,confessing
+2018-11-05,2018-11-07,Anthony Crane,Larry King,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,FALSE,insulting
 2018-03-08,2018-04-07,Yvette Herrera,Samuel Cunningham,51.08468,7.11393,Burscheid,DE,Berlin,FALSE,FALSE,TRUE,friendly
 2000-03-25,2000-04-22,Rachel Silva,Edward Hernandez,50.75932,25.34244,Lutsk,UA,Kiev,FALSE,TRUE,TRUE,injured
 2005-06-07,2005-06-07,Michelle Shepherd,Dawn Pierce,42.8139,-1.64295,Segundo Ensanche,ES,Madrid,FALSE,FALSE,TRUE,confessing
@@ -1456,7 +1456,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2013-05-04,2013-06-25,Kristin Johnson,Bethany Chen,51.65333,5.2875,Vught,NL,Amsterdam,FALSE,TRUE,TRUE,out-of-control
 2015-05-16,2015-05-20,Richard Trujillo,Larry Wiggins,48.79325,2.29275,Fontenay-aux-Roses,FR,Paris,FALSE,TRUE,TRUE,fleeing
 2013-11-25,2013-12-30,Katrina Harrison,Judith Meyer,54.39635,24.04142,Alytus,LT,Vilnius,TRUE,TRUE,TRUE,fleeing
-1997-10-21,1997-11-23,Lisa Gordon,Ashley Davis,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,evasive
+1997-10-21,1997-11-23,Lisa Gordon,Ashley Davis,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,evasive
 2016-06-06,2016-06-18,Nicole Walton,Christine Shah,55.67938,12.53463,Frederiksberg,DK,Copenhagen,FALSE,FALSE,TRUE,sad
 2006-10-24,2006-11-17,Michael Cummings,Mary Weaver,43.48961,-8.2194,Ferrol,ES,Madrid,FALSE,FALSE,FALSE,hostile
 2000-09-28,2000-10-14,Kevin Gutierrez,Kayla Klein,55.82885,-4.21376,Rutherglen,GB,London,FALSE,TRUE,TRUE,worried
@@ -1504,7 +1504,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1998-08-01,1998-08-14,Matthew Turner,Jordan Torres,50.64336,7.2278,Bad Honnef,DE,Berlin,FALSE,TRUE,TRUE,oblivious
 2000-09-23,2000-11-04,Hannah Ray,Stephen Graham,52.57583,6.61944,Hardenberg,NL,Amsterdam,FALSE,FALSE,TRUE,accusatory
 2010-05-26,2010-05-29,Joseph Sharp,Karen Weber,43.4125,23.225,Montana,BG,Sofia,FALSE,TRUE,TRUE,friendly
-2017-10-31,2017-11-26,Joseph Mueller,Matthew Wagner,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,tense
+2017-10-31,2017-11-26,Joseph Mueller,Matthew Wagner,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,tense
 1989-04-18,1989-04-21,Kristen Harper,Angel Payne,53.43333,-7.95,Athlone,IE,Dublin,FALSE,TRUE,TRUE,fleeing
 2008-05-02,2008-06-06,Dr. Mason Young,Robert Maxwell,41.55947,14.66737,Campobasso,IT,Rome,FALSE,FALSE,FALSE,tense
 2019-11-19,2019-11-28,Steven Barton,Brandi Jones,41.15612,1.10687,Reus,ES,Madrid,FALSE,FALSE,FALSE,happy
@@ -1739,7 +1739,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2018-01-29,2018-03-06,Troy Wilcox,Kelly Lindsey,57.14369,-2.09814,Aberdeen,GB,London,FALSE,TRUE,TRUE,accusatory
 2013-07-11,2013-08-30,Timothy Brock,Melvin Hansen,53.6052,10.03988,Barmbek-Nord,DE,Berlin,TRUE,TRUE,TRUE,tense
 2009-02-19,2009-04-14,Kelly Rodriguez,Ashley Howell,61.72744,17.10558,Hudiksvall,SE,Stockholm,FALSE,TRUE,TRUE,sad
-2006-05-02,2006-06-18,Rebecca Rogers,Donna Martin,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,FALSE,TRUE,friendly
+2006-05-02,2006-06-18,Rebecca Rogers,Donna Martin,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,FALSE,TRUE,friendly
 2010-07-12,2010-07-26,Suzanne Rhodes MD,Gregory Moore,54.84444,38.16694,Kashira,RU,Moscow,FALSE,FALSE,TRUE,confessing
 1999-11-01,1999-11-24,Jonathan Garza,Charlene Mccormick,47.05,15.46667,Sankt Peter,AT,Vienna,FALSE,FALSE,TRUE,sad
 1996-06-04,1996-07-04,Kendra Russell,Kathleen Castro,41.92361,20.91361,Bogovinje,MK,Skopje,FALSE,TRUE,TRUE,sad
@@ -1791,7 +1791,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1986-10-03,1986-11-25,Jonathan Chang,Steven Lee,53.78333,-1.06667,Selby,GB,London,FALSE,FALSE,TRUE,paranoid
 1986-01-08,1986-02-28,Amy Rivera,Christian Moore,43.62558,13.39954,Falconara Marittima,IT,Rome,FALSE,TRUE,TRUE,insulting
 1995-09-12,1995-11-02,Gabriela Reyes,Brendan Love,47.48444,36.25361,Polohy,UA,Zaporozhye,FALSE,TRUE,TRUE,lonely
-2000-03-13,2000-05-10,Aaron Morales,Victoria Rodriguez,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,FALSE,TRUE,unhappy
+2000-03-13,2000-05-10,Aaron Morales,Victoria Rodriguez,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,unhappy
 1997-05-09,1997-07-03,Tammy Brock,Reginald Harvey,37.58105,29.26639,Serinhisar,TR,Istanbul,FALSE,TRUE,TRUE,panicking
 1989-11-19,1990-01-05,Philip Williams III,Michael Bailey,37.08819,-8.2503,Albufeira,PT,Lisbon,TRUE,TRUE,TRUE,fleeing
 1992-06-24,1992-06-28,Tony Jordan,Kathleen Castro,43.2907,5.4384,Marseille 11,FR,Paris,FALSE,FALSE,TRUE,accusatory
@@ -1827,7 +1827,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2019-01-10,2019-02-13,Patrick Wagner,Rebecca Russell,52.68333,0.93333,East Dereham,GB,London,FALSE,FALSE,TRUE,hostile
 2014-10-22,2014-10-27,Taylor Paul,Jeanne Green,52.86147,9.5926,Walsrode,DE,Berlin,FALSE,TRUE,TRUE,panicking
 1997-11-13,1997-11-19,Jennifer Hughes,Evan Perkins,40.42386,-3.53261,San Fernando de Henares,ES,Madrid,FALSE,FALSE,TRUE,fleeing
-1998-10-09,1998-11-15,Becky Klein,Tracy Young,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,FALSE,TRUE,accusatory
+1998-10-09,1998-11-15,Becky Klein,Tracy Young,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,accusatory
 2012-01-16,2012-02-02,Maria Mcdowell,Maurice Mccarthy,48.15659,28.28489,Soroca,MD,Chisinau,FALSE,TRUE,TRUE,scared
 1993-03-29,1993-04-22,Felicia Pacheco,Gabrielle Mendez,43.32393,5.4584,Les Olives,FR,Paris,FALSE,TRUE,TRUE,scared
 2012-10-23,2012-10-25,Michelle Davis,Brian Delacruz,43.35071,46.10925,Gudermes,RU,Moscow,FALSE,TRUE,TRUE,happy
@@ -1909,7 +1909,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1986-03-13,1986-05-10,Jeffrey Bryant,William Knight,52.2,8.63333,Kirchlengern,DE,Berlin,FALSE,TRUE,TRUE,friendly
 2020-02-08,2020-03-31,Patrick Ruiz,Shelley Bullock,55.25,24.75,Ukmerge,LT,Vilnius,FALSE,FALSE,TRUE,accusatory
 2013-10-26,2013-10-29,Nancy Jones,Victoria Rodriguez,53.16167,6.76111,Hoogezand,NL,Amsterdam,FALSE,FALSE,FALSE,unhappy
-2000-01-19,2000-02-17,Travis Evans,John Turner,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,lonely
+2000-01-19,2000-02-17,Travis Evans,John Turner,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,lonely
 1993-10-10,1993-10-20,Jennifer James,Amy Moore,43.32393,5.4584,Les Olives,FR,Paris,FALSE,TRUE,TRUE,scared
 2006-12-16,2006-12-18,Melinda Ryan,David Strong,51.24197,4.82313,Lille,BE,Brussels,FALSE,FALSE,TRUE,evasive
 1996-02-07,1996-03-13,Tammy Ramirez,Patricia Edwards,40.87363,14.34085,Volla,IT,Rome,FALSE,FALSE,TRUE,over-complimenting
@@ -2156,7 +2156,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1999-12-16,2000-01-10,Cheyenne Lee,Garrett Lawrence,37.49223,15.07041,Catania,IT,Rome,FALSE,TRUE,TRUE,talkative
 1986-06-02,1986-07-11,Alice Mitchell,Austin Summers,50.23271,12.87117,Karlovy Vary,CZ,Prague,FALSE,TRUE,FALSE,injured
 2019-09-05,2019-09-30,George Olson,Maurice Mccarthy,51.39323,0.47713,Strood,GB,London,FALSE,TRUE,TRUE,confessing
-2021-12-02,2021-12-25,Ebony Golden,Christina Ball,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,insulting
+2021-12-02,2021-12-25,Ebony Golden,Christina Ball,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,insulting
 2002-01-26,2002-02-17,Chris Wu,Jamie Price,51.44889,5.51978,Tongelre,NL,Amsterdam,FALSE,TRUE,TRUE,panicking
 2002-05-20,2002-06-16,Regina Boyer,Tiffany Patrick,48.49144,9.20427,Reutlingen,DE,Berlin,FALSE,FALSE,TRUE,oblivious
 2002-06-17,2002-07-17,Charles Hayes,Christian Moore,50.71229,4.52529,Rixensart,BE,Brussels,FALSE,TRUE,TRUE,panicking
@@ -2429,7 +2429,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1987-09-24,1987-11-19,Allison Lara,Andrew Miranda,39.96348,-4.83076,Talavera de la Reina,ES,Madrid,FALSE,TRUE,TRUE,sad
 2021-03-02,2021-03-16,Stephanie Stewart,Caleb Cook,51.84819,1.26738,Walton-on-the-Naze,GB,London,FALSE,FALSE,TRUE,sad
 2016-01-22,2016-01-24,Christopher Briggs,Maria Tucker,51.65,-0.2,Barnet,GB,London,FALSE,TRUE,TRUE,panicking
-1992-10-20,1992-10-22,Sara Mcbride,Denise Park,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,complaining
+1992-10-20,1992-10-22,Sara Mcbride,Denise Park,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,complaining
 2008-08-25,2008-10-13,Leslie Estrada,Brian Torres,48.77275,5.16108,Bar-le-Duc,FR,Paris,FALSE,TRUE,TRUE,over-complimenting
 2019-12-18,2019-12-26,Anne Cooper,Paul Garner,41.91886,8.73812,Ajaccio,FR,Paris,FALSE,TRUE,TRUE,injured
 2021-02-19,2021-02-23,James West,Kyle Thomas,37.31065,13.57661,Agrigento,IT,Rome,FALSE,FALSE,TRUE,unhappy
@@ -2444,7 +2444,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1998-01-26,1998-01-30,Alex Mccoy,Jeffrey Johnson,38.10558,-1.86343,Caravaca,ES,Madrid,FALSE,FALSE,TRUE,insulting
 2004-10-09,2004-10-24,Sarah Wood,Margaret Ortega,43.67681,4.63031,Arles,FR,Paris,FALSE,TRUE,TRUE,over-complimenting
 2012-01-25,2012-03-10,Holly Barnett,Jamie Martin,42.06166,-1.60452,Tudela,ES,Madrid,FALSE,FALSE,TRUE,talkative
-2014-01-17,2014-02-03,Derrick Wilson,Nicole Payne,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,TRUE,TRUE,panicking
+2014-01-17,2014-02-03,Derrick Wilson,Nicole Payne,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,panicking
 2001-07-29,2001-09-12,Mackenzie Dalton,Natalie Patrick,53.83333,-2.98333,Poulton-le-Fylde,GB,London,FALSE,TRUE,TRUE,fleeing
 2016-04-11,2016-04-16,Michael Alvarez,Melinda Evans,45.9836,12.70038,Cordenons,IT,Rome,FALSE,TRUE,FALSE,sad
 2018-10-06,2018-11-27,Mr. Robert Vasquez,Teresa Diaz,54.39635,24.04142,Alytus,LT,Vilnius,TRUE,TRUE,TRUE,paranoid
@@ -2512,7 +2512,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2020-12-02,2020-12-31,Charles Howard,Amber Wright,43.35071,46.10925,Gudermes,RU,Moscow,FALSE,TRUE,TRUE,lonely
 2018-04-25,2018-05-04,Renee Cruz,David Harrington,45.73333,4.91667,Bron,FR,Paris,FALSE,TRUE,TRUE,sad
 2015-12-22,2016-01-24,Carla Green,Sherry Aguilar,49.07866,30.96755,Zvenihorodka,UA,Kiev,FALSE,FALSE,TRUE,hostile
-2012-06-14,2012-07-24,Denise Roberson,James Brock,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,confessing
+2012-06-14,2012-07-24,Denise Roberson,James Brock,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,confessing
 1987-04-06,1987-06-01,Michele Malone,Stacey Morris,39.96348,-4.83076,Talavera de la Reina,ES,Madrid,FALSE,TRUE,TRUE,sad
 1994-05-07,1994-06-19,Michael Anderson,Misty Young,54.03876,43.91385,Kovylkino,RU,Moscow,FALSE,FALSE,TRUE,complaining
 2021-01-18,2021-01-19,Aimee Thompson,Andrew Miranda,37.58105,29.26639,Serinhisar,TR,Istanbul,TRUE,FALSE,TRUE,silent
@@ -2670,7 +2670,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2020-12-11,2021-01-18,Kim Gonzales,Zachary Moore,52.09,5.23333,Zeist,NL,Amsterdam,FALSE,FALSE,TRUE,accusatory
 1993-10-04,1993-11-03,Michael Serrano,Candice Johnson,39.12074,27.18052,Bergama,TR,Istanbul,FALSE,TRUE,TRUE,paranoid
 1986-05-26,1986-06-25,Maria Cruz,Amy Moore,64.5635,39.8302,Severodvinsk,RU,Moscow,FALSE,TRUE,TRUE,confessing
-2018-05-04,2018-06-19,Cynthia Murray,Jessica Conway,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,FALSE,FALSE,TRUE,worried
+2018-05-04,2018-06-19,Cynthia Murray,Jessica Conway,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,FALSE,FALSE,TRUE,worried
 2006-11-02,2006-12-06,Sandra Perez,Jimmy Patel,44.80477,-0.59543,Talence,FR,Paris,FALSE,FALSE,TRUE,evasive
 1990-09-28,1990-10-13,Cameron Henson,Lisa Sweeney,53.53041,43.67663,Nizhniy Lomov,RU,Moscow,FALSE,TRUE,TRUE,happy
 1994-06-28,1994-07-14,Desiree Oconnor,Julie Lopez,52.09,5.23333,Zeist,NL,Amsterdam,FALSE,FALSE,TRUE,complaining
@@ -2760,7 +2760,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2010-12-31,2011-01-13,Rachel Mathews,Gerald Green,50.11861,-5.53715,Penzance,GB,London,FALSE,FALSE,TRUE,panicking
 1987-10-29,1987-11-02,Martin Payne,Michael Mercer,52.31333,6.92917,Oldenzaal,NL,Amsterdam,FALSE,TRUE,TRUE,complaining
 1995-05-15,1995-06-11,Christopher Austin,Loretta Wood,48.43174,17.8031,Hlohovec,SK,Bratislava,FALSE,TRUE,TRUE,talkative
-2006-10-30,2006-11-02,Claudia Salinas,Christian Moore,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,FALSE,TRUE,out-of-control
+2006-10-30,2006-11-02,Claudia Salinas,Christian Moore,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,FALSE,TRUE,out-of-control
 1996-10-26,1996-11-06,Gabriella Mcknight,Gregory Hanson,37.31309,40.74357,Mardin,TR,Istanbul,FALSE,FALSE,TRUE,panicking
 1991-07-27,1991-08-21,Tiffany Pena,Jeremy Moran,51.65333,5.2875,Vught,NL,Amsterdam,TRUE,TRUE,TRUE,insulting
 2019-01-04,2019-01-17,Jessica Anderson,Kendra Miller,53.63333,9.85,Halstenbek,DE,Berlin,FALSE,TRUE,TRUE,injured
@@ -2901,7 +2901,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1996-09-16,1996-09-21,Nicole Calhoun,Deborah Harrison,51.65333,5.2875,Vught,NL,Amsterdam,FALSE,FALSE,TRUE,oblivious
 2010-06-10,2010-06-28,Mary Gray,Brett Wood,55.82885,-4.21376,Rutherglen,GB,London,FALSE,TRUE,TRUE,scared
 1997-07-08,1997-07-31,Mark Johnson,Hunter Lee,55.64776,38.02486,Malakhovka,RU,Moscow,FALSE,FALSE,TRUE,tense
-1986-11-08,1986-11-12,Robert Craig,Melissa Meyers,53.95278,32.86389,Roslavl‚Äô,RU,Moscow,TRUE,TRUE,TRUE,insulting
+1986-11-08,1986-11-12,Robert Craig,Melissa Meyers,53.95278,32.86389,Roslavlï¿½ï¿½ï¿½,RU,Moscow,TRUE,TRUE,TRUE,insulting
 2021-10-28,2021-12-20,Tyler Wilson,Jorge Novak,35.89972,14.51472,Valletta,MT,Malta,FALSE,TRUE,TRUE,confessing
 2018-10-05,2018-11-25,Emily Davis,Ashley Taylor,48.35693,10.98461,Friedberg,DE,Berlin,FALSE,FALSE,TRUE,talkative
 2019-07-08,2019-08-07,Jeffrey Weeks,Tanya Conley,48.98333,2.61667,Mitry-Mory,FR,Paris,TRUE,TRUE,TRUE,insulting
@@ -3088,7 +3088,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2004-02-28,2004-03-24,Mark Contreras,Cynthia Carr,52.2,8.63333,Kirchlengern,DE,Berlin,TRUE,FALSE,TRUE,insulting
 1991-01-15,1991-03-06,Angela Lee,Mrs. Amy Munoz PhD,43.67681,4.63031,Arles,FR,Paris,FALSE,FALSE,TRUE,accusatory
 1997-11-26,1998-01-23,Michael Burke,Maurice Mccarthy,43.78956,7.60872,Ventimiglia,IT,Rome,FALSE,TRUE,TRUE,scared
-2018-05-29,2018-07-01,Matthew Smith,Richard Reyes,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,TRUE,friendly
+2018-05-29,2018-07-01,Matthew Smith,Richard Reyes,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,friendly
 1999-02-13,1999-02-13,Nancy Cooper,Misty Marshall,50.23271,12.87117,Karlovy Vary,CZ,Prague,FALSE,TRUE,TRUE,confessing
 2009-08-18,2009-08-23,Richard Shelton,Kathleen Castro,43.61092,3.87723,Montpellier,FR,Paris,FALSE,FALSE,TRUE,insulting
 1995-06-13,1995-07-02,Melissa Raymond,Ms. Sheila Campbell MD,43.61092,3.87723,Montpellier,FR,Paris,FALSE,FALSE,TRUE,evasive
@@ -3238,7 +3238,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2011-07-26,2011-07-29,Connor Dunn,Laura Oconnor,55.62047,37.49338,Tyoply Stan,RU,Moscow,FALSE,FALSE,TRUE,paranoid
 2013-04-23,2013-06-12,Kimberly Mccormick,Melissa Meyers,51.168,7.973,Finnentrop,DE,Berlin,FALSE,FALSE,FALSE,unhappy
 2016-02-28,2016-03-18,Alexis Duran,Laura Santana,41.91886,8.73812,Ajaccio,FR,Paris,FALSE,TRUE,TRUE,tense
-2007-01-19,2007-02-07,Terry Black,Brian Hickman,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,TRUE,FALSE,TRUE,worried
+2007-01-19,2007-02-07,Terry Black,Brian Hickman,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,TRUE,FALSE,TRUE,worried
 2001-05-09,2001-05-30,Luke Butler,Eric Roberts,53.43333,-7.95,Athlone,IE,Dublin,FALSE,FALSE,TRUE,insulting
 2018-10-26,2018-11-28,Nicholas James,Patricia Edwards,45.99194,29.41824,Artsyz,UA,Kiev,FALSE,TRUE,TRUE,injured
 2010-02-13,2010-02-26,Jermaine Chen,Allen Baker,52.61131,13.31783,Hermsdorf,DE,Berlin,FALSE,TRUE,TRUE,over-complimenting
@@ -3276,7 +3276,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2001-06-02,2001-07-23,Lisa Powell,Tiffany Bennett,52.68333,0.93333,East Dereham,GB,London,FALSE,FALSE,TRUE,out-of-control
 2004-02-14,2004-02-17,Emily Hughes,Rose Reed,44.98901,38.94324,Yablonovskiy,RU,Moscow,FALSE,FALSE,TRUE,unhappy
 1999-10-23,1999-10-30,Jeffery Reyes,Larry King,37.49073,-2.77259,Baza,ES,Madrid,FALSE,TRUE,TRUE,panicking
-1998-07-01,1998-08-24,Michelle Marshall,Patrick Stephens,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,FALSE,TRUE,silent
+1998-07-01,1998-08-24,Michelle Marshall,Patrick Stephens,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,FALSE,TRUE,silent
 2018-03-01,2018-03-03,Daniel Thompson,Joseph Arellano,43.96222,43.63417,Novopavlovsk,RU,Moscow,TRUE,FALSE,TRUE,silent
 2000-01-04,2000-01-05,Molly Evans,Timothy Davis,43.32686,-2.98884,Leioa,ES,Madrid,FALSE,TRUE,TRUE,confessing
 1988-04-12,1988-05-31,Patrick Brown,Karen Nguyen,50.18545,27.06365,Shepetivka,UA,Kiev,FALSE,TRUE,TRUE,paranoid
@@ -3343,7 +3343,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2002-01-01,2002-01-29,Kevin Harper,Julie Nguyen,53.83333,-2.98333,Poulton-le-Fylde,GB,London,TRUE,TRUE,TRUE,lonely
 1991-11-06,1991-12-22,Maureen Hall,Kelly Lindsey,49.28669,1.00288,Elbeuf,FR,Paris,FALSE,FALSE,TRUE,accusatory
 1995-02-14,1995-02-24,Kelly Stokes,Jane Hall,50.86079,17.4674,Brzeg,PL,Warsaw,FALSE,TRUE,TRUE,oblivious
-2009-03-13,2009-04-17,Aaron Mcdonald MD,Elizabeth Cooper,54.8421,46.5813,Alatyr‚Äô,RU,Moscow,FALSE,TRUE,TRUE,friendly
+2009-03-13,2009-04-17,Aaron Mcdonald MD,Elizabeth Cooper,54.8421,46.5813,Alatyrï¿½ï¿½ï¿½,RU,Moscow,FALSE,TRUE,TRUE,friendly
 1992-09-23,1992-10-26,Michael Miller,Evelyn Hines,53.63333,9.85,Halstenbek,DE,Berlin,FALSE,TRUE,TRUE,accusatory
 2008-11-15,2009-01-05,Darlene Scott,Jerry Cruz,45.51667,4.86667,Vienne,FR,Paris,FALSE,FALSE,TRUE,out-of-control
 2016-01-15,2016-02-13,Kimberly Fowler,Lindsey Wheeler,48.46458,9.22796,Pfullingen,DE,Berlin,FALSE,TRUE,TRUE,happy
@@ -3644,7 +3644,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 1989-05-29,1989-06-12,Hunter Mayo,Dr. Crystal Mccormick,53.59337,9.47629,Stade,DE,Berlin,FALSE,TRUE,TRUE,happy
 1993-01-12,1993-02-20,Brenda Davis,Jeremy Mccullough,40.42386,-3.53261,San Fernando de Henares,ES,Madrid,FALSE,TRUE,TRUE,talkative
 2009-05-19,2009-07-12,Debbie Cruz,Regina Henderson,53.83333,-2.98333,Poulton-le-Fylde,GB,London,FALSE,TRUE,TRUE,hostile
-2005-01-21,2005-02-17,Alexis Young,Kathy Meadows,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,tense
+2005-01-21,2005-02-17,Alexis Young,Kathy Meadows,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,tense
 1995-01-14,1995-01-28,Mr. Joseph Harris,Belinda Thompson,48.28259,9.72749,Ehingen,DE,Berlin,FALSE,TRUE,TRUE,evasive
 2015-03-02,2015-04-10,Kristen Hoffman,Sarah Brown,43.83125,5.03586,Cavaillon,FR,Paris,FALSE,TRUE,TRUE,injured
 1994-07-07,1994-08-26,Lisa Hamilton,Shelly Espinoza,49.5099,6.74549,Losheim,DE,Berlin,FALSE,TRUE,TRUE,insulting
@@ -3734,7 +3734,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2011-03-16,2011-05-07,James Zimmerman,Dawn Pierce,43.32686,-2.98884,Leioa,ES,Madrid,TRUE,TRUE,TRUE,hostile
 2007-04-30,2007-05-11,Matthew Swanson,Christopher Morrison,43.2907,5.4384,Marseille 11,FR,Paris,FALSE,TRUE,TRUE,scared
 2012-03-29,2012-04-01,Samantha Hutchinson,Jennifer Malone,47.98372,10.18527,Memmingen,DE,Berlin,FALSE,TRUE,TRUE,worried
-2018-10-09,2018-10-18,Jillian Hicks,Brandy White,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,FALSE,TRUE,unhappy
+2018-10-09,2018-10-18,Jillian Hicks,Brandy White,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,FALSE,TRUE,unhappy
 1992-02-05,1992-03-07,Nancy Williams DVM,Nicholas Rowe,37.51803,15.00913,Misterbianco,IT,Rome,TRUE,TRUE,TRUE,injured
 2011-06-07,2011-07-02,Melissa Turner,Tanya Conley,41.57439,24.71204,Smolyan,BG,Sofia,FALSE,TRUE,TRUE,hostile
 1986-04-22,1986-06-16,Lance White,Emily Mccoy,53.77166,38.12408,Bogoroditsk,RU,Moscow,FALSE,TRUE,TRUE,paranoid
@@ -3824,7 +3824,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2007-10-23,2007-12-14,Paula Greene,Dawn Simmons,60.18427,24.95034,Kallio,FI,Helsinki,FALSE,TRUE,TRUE,friendly
 2001-09-25,2001-11-18,Megan Allen,Christopher Greer,40.92298,14.30935,Afragola,IT,Rome,FALSE,TRUE,FALSE,tense
 2007-10-29,2007-11-28,Tyler Thomas,Garrett Lawrence,53.53333,-7.35,An Muileann gCearr,IE,Dublin,FALSE,FALSE,TRUE,tense
-2005-02-08,2005-02-23,Thomas Webb,Kendra Miller,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,insulting
+2005-02-08,2005-02-23,Thomas Webb,Kendra Miller,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,insulting
 2006-11-15,2006-12-30,Leah Benton,Glenn Li,57.14369,-2.09814,Aberdeen,GB,London,FALSE,TRUE,TRUE,tense
 1999-03-29,1999-04-19,Pamela Woods,Darren Simpson,61.72744,17.10558,Hudiksvall,SE,Stockholm,TRUE,TRUE,TRUE,over-complimenting
 2020-03-13,2020-04-19,Stephanie Murray,Kimberly Gibson,53.46506,-1.47217,Chapletown,GB,London,FALSE,TRUE,TRUE,paranoid
@@ -3988,7 +3988,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2021-02-13,2021-03-25,Joshua Ferrell,Shelly Espinoza,48.35693,10.98461,Friedberg,DE,Berlin,FALSE,TRUE,TRUE,worried
 2001-08-06,2001-09-12,Billy Choi,Michael Riddle,46.75451,33.34864,Nova Kakhovka,UA,Kiev,TRUE,TRUE,TRUE,friendly
 2011-05-14,2011-06-01,Mary Gomez,Austin Summers,55.63711,37.38115,Solntsevo,RU,Moscow,FALSE,TRUE,TRUE,panicking
-1999-09-27,1999-10-02,Harold Jones,Patricia Edwards,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,paranoid
+1999-09-27,1999-10-02,Harold Jones,Patricia Edwards,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,paranoid
 1988-06-06,1988-07-21,Kimberly Shaw,Timothy Williams,44.75874,19.21437,Bijeljina,BA,Sarajevo,TRUE,FALSE,TRUE,evasive
 1994-02-19,1994-03-22,Nina Thomas,Denise Park,41.1053,-7.32097,Custoias,PT,Lisbon,FALSE,FALSE,TRUE,happy
 2020-11-24,2020-12-08,Jacob Clark,Sarah Peters,40.87363,14.34085,Volla,IT,Rome,FALSE,TRUE,TRUE,friendly
@@ -4131,7 +4131,7 @@ date_witness,date_filed,witness,agent,lat_,long_,city,country,region_hq,armed?,c
 2022-06-24,2022-08-05,Andrew Short,Paul Rogers,51.03427,5.37429,Houthalen,BE,Brussels,FALSE,TRUE,TRUE,evasive
 2013-11-02,2013-12-28,Dwayne Huynh,Christopher Miller,40.87363,14.34085,Volla,IT,Rome,FALSE,TRUE,TRUE,silent
 1989-01-08,1989-01-13,Sophia Ward,Carrie Boone,50.23019,8.77155,Karben,DE,Berlin,FALSE,TRUE,FALSE,insulting
-2008-03-07,2008-03-29,Mary Dominguez,Angelica Chan,53.59782,34.33825,Dyat‚Äôkovo,RU,Moscow,FALSE,TRUE,TRUE,paranoid
+2008-03-07,2008-03-29,Mary Dominguez,Angelica Chan,53.59782,34.33825,Dyatï¿½ï¿½ï¿½kovo,RU,Moscow,FALSE,TRUE,TRUE,paranoid
 2012-08-17,2012-08-25,Ronald Jackson,Carla Reyes,51.40148,-1.32471,Newbury,GB,London,FALSE,FALSE,TRUE,sad
 1997-04-04,1997-04-14,Jeffrey Chung,Jeanne Green,50.76306,-1.29772,Cowes,GB,London,FALSE,TRUE,TRUE,fleeing
 2020-11-16,2020-12-01,Lisa Dunn,Charles Moran,43.67681,4.63031,Arles,FR,Paris,FALSE,FALSE,TRUE,worried

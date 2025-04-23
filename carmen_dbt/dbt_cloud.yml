@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "pl340.us1.dbt.com"
+  active-project: "70471823463035"
+projects:
+  - project-name: "carmen"
+    project-id: "70471823463035"
+    account-name: "none"
+    account-id: "70471823455971"
+    account-host: "pl340.us1.dbt.com"
+    token-name: "cloud-cli-4564"
+    token-value: "dbtu_TE8Ucq4pWUM6E1e6zJNRun1D4-TpQ5_fdB89FIrJirXkX3q69E"
+
+

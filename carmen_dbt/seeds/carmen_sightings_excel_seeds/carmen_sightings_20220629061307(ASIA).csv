@@ -141,7 +141,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1990-07-03,1990-08-26,Diana Davis,Kristen Peterson,12.97389,123.99333,Sorsogon,PH,Manila,FALSE,FALSE,FALSE,unhappy
 1996-01-18,1996-02-21,Mary Miller,Kimberly Stewart,19.21667,73.08333,Dombivli,IN,Kolkata,TRUE,TRUE,TRUE,lonely
 2006-06-14,2006-06-28,Hannah Pittman,Sarah Reynolds,42.64031,125.51176,Dongfeng,CN,Shanghai,FALSE,TRUE,TRUE,confessing
-2012-10-30,2012-11-04,Barry Garrett,Kathleen Hicks,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,complaining
+2012-10-30,2012-11-04,Barry Garrett,Kathleen Hicks,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,complaining
 2018-04-30,2018-06-17,James Adkins,Patricia Edwards,13.65805,102.56365,Paoy Paet,KH,Phnom Penh,FALSE,TRUE,TRUE,insulting
 1999-12-07,1999-12-12,Kelly Chambers,Todd Robinson,38.45598,48.87498,Astara,AZ,Baku,FALSE,TRUE,TRUE,confessing
 1988-12-16,1988-12-20,Cristina Costa,Michael Tate,47.46657,84.87144,Zaysan,KZ,Almaty,FALSE,TRUE,TRUE,complaining
@@ -214,7 +214,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1995-05-31,1995-06-14,Cody Nelson,Lisa Sweeney,6.9909,79.883,Hendala,LK,Colombo,FALSE,FALSE,TRUE,lonely
 2014-12-08,2014-12-12,Claudia Woods,Sarah Reynolds,15.72892,120.57224,Burgos,PH,Manila,FALSE,FALSE,TRUE,out-of-control
 2007-04-12,2007-05-27,Marcus Long,Jimmy Patel,24.28859,116.11768,Meizhou,CN,Shanghai,FALSE,FALSE,TRUE,over-complimenting
-1994-03-04,1994-03-24,Olivia Gonzalez,Larry Braun,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,FALSE,complaining
+1994-03-04,1994-03-24,Olivia Gonzalez,Larry Braun,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,FALSE,complaining
 2000-08-05,2000-08-10,Natasha Patterson,Brian Haas,37.65639,126.835,Goyang-si,KR,Seoul,FALSE,TRUE,TRUE,tense
 2004-02-08,2004-03-14,Wendy Terry,Karen Nguyen,36.75965,137.36215,Namerikawa,JP,Tokyo,TRUE,FALSE,TRUE,tense
 2001-01-20,2001-03-06,Rachel Hamilton,Meghan Owens,33.86419,48.26258,Aleshtar,IR,Tehran,FALSE,TRUE,TRUE,silent
@@ -363,7 +363,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1999-10-28,1999-12-02,Jennifer Burns,Mrs. Kristin Lopez MD,31.92923,34.86563,Ramla,IL,Jerusalem,FALSE,FALSE,TRUE,sad
 2021-04-15,2021-05-08,Gina Summers,Ashley Davis,6.95194,121.96361,Recodo,PH,Manila,TRUE,TRUE,TRUE,out-of-control
 2016-07-08,2016-07-11,Leslie Espinoza,Jerry Stephenson,26.32293,91.00632,Barpeta,IN,Kolkata,FALSE,TRUE,TRUE,sad
-2003-04-30,2003-05-09,Adam Carr,David Woodward,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,accusatory
+2003-04-30,2003-05-09,Adam Carr,David Woodward,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,accusatory
 1998-08-12,1998-09-05,Peter Sullivan,David Simmons,29.22254,79.5286,Haldwani,IN,Kolkata,FALSE,TRUE,TRUE,fleeing
 2014-01-21,2014-03-20,Kristi Leon,Melvin Hansen,10.10649,76.35484,Alwaye,IN,Kolkata,FALSE,FALSE,TRUE,talkative
 2014-02-27,2014-03-25,Jared Howard,Rhonda Jones,34.81667,137.4,Toyokawa,JP,Tokyo,FALSE,TRUE,TRUE,fleeing
@@ -400,7 +400,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2018-03-12,2018-04-15,Misty Bennett,Linda Porter DVM,13.51825,99.95469,Damnoen Saduak,TH,Bangkok,FALSE,FALSE,TRUE,friendly
 2013-02-09,2013-02-09,Melanie Camacho,Michael Woods,55.8736,85.4265,Yashkino,RU,Novokuznetsk,FALSE,TRUE,TRUE,insulting
 1993-03-02,1993-04-01,Sarah Davis,Brian Thomas,23.02677,113.13148,Foshan,CN,Shanghai,FALSE,TRUE,TRUE,friendly
-1986-12-25,1987-01-12,Taylor Krause,Adam Montes,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,happy
+1986-12-25,1987-01-12,Taylor Krause,Adam Montes,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,happy
 1989-06-29,1989-08-17,Dr. Heidi Harper,Jerry Erickson,16.0567,103.65309,Roi Et,TH,Bangkok,FALSE,TRUE,TRUE,scared
 1992-10-16,1992-11-07,Jorge Lopez,James Burnett,15.46063,99.89166,Thap Than,TH,Bangkok,FALSE,TRUE,TRUE,complaining
 2015-01-06,2015-01-23,Michael Rivera,Misty Young,23.18,88.58,Aistala,IN,Kolkata,FALSE,TRUE,FALSE,friendly
@@ -422,7 +422,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2020-04-16,2020-04-25,Ronald Riley,Karen Weber,36.81667,117.81667,Zhoucun,CN,Shanghai,FALSE,FALSE,TRUE,complaining
 1996-07-20,1996-08-06,Mrs. Michelle Baker,Nicole Scott,31.78336,35.23388,East Jerusalem,PS,Hebron,FALSE,FALSE,TRUE,sad
 2002-05-30,2002-07-18,Andrew Bentley,Alvin Alvarez,41.77583,140.73667,Hakodate,JP,Tokyo,FALSE,FALSE,TRUE,confessing
-2014-05-25,2014-07-18,Christopher Anderson,Logan Duncan,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,TRUE,FALSE,TRUE,sad
+2014-05-25,2014-07-18,Christopher Anderson,Logan Duncan,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,TRUE,FALSE,TRUE,sad
 2011-03-23,2011-04-10,Laura Adkins,Tracy Young,34.4833,136.84186,Toba,JP,Tokyo,TRUE,TRUE,TRUE,hostile
 1989-07-14,1989-07-28,William Mccarthy,Charles Leonard,31.78336,35.23388,East Jerusalem,PS,Hebron,FALSE,FALSE,TRUE,complaining
 1996-05-04,1996-05-05,Henry Morrow,Regina Henderson,41.82143,41.77921,Kobuleti,GE,Tbilisi,FALSE,TRUE,TRUE,insulting
@@ -551,7 +551,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2014-01-01,2014-03-01,Kelsey Ferrell,Susan Bowers,14.8361,120.97844,Guyong,PH,Manila,FALSE,TRUE,TRUE,insulting
 2007-09-05,2007-10-15,David Bates,Denise Johnson,28.88162,120.03308,Guli,CN,Shanghai,TRUE,TRUE,TRUE,over-complimenting
 2006-05-11,2006-06-29,Kathy Wilson,Zachary Hawkins,15.73628,75.96976,Gajendragarh,IN,Kolkata,FALSE,TRUE,TRUE,tense
-1997-11-04,1997-12-30,David Hansen,Darren Simpson,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,insulting
+1997-11-04,1997-12-30,David Hansen,Darren Simpson,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,insulting
 1986-07-10,1986-07-20,Benjamin Sheppard,Donald Pierce,10.12268,77.54372,Periyakulam,IN,Kolkata,FALSE,TRUE,TRUE,panicking
 2009-04-17,2009-06-06,Renee Castillo,Carrie Boone,25.13915,73.06784,Sheoganj,IN,Kolkata,FALSE,TRUE,TRUE,unhappy
 2015-10-11,2015-11-24,Amy Chan,Nicholas Jones,27.85,112.9,Xiangtan,CN,Shanghai,FALSE,FALSE,TRUE,evasive
@@ -559,7 +559,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2008-02-27,2008-03-09,Rebekah Alexander,Loretta Wood,36.82167,128.63083,Eisen,KR,Seoul,FALSE,FALSE,TRUE,complaining
 1992-11-29,1992-12-23,Mary Taylor,Nathaniel Jackson,37.65639,126.835,Goyang-si,KR,Seoul,FALSE,FALSE,TRUE,panicking
 2019-08-16,2019-08-27,Sue Gibson,Chad Chandler,26.76628,83.36889,Gorakhpur,IN,Kolkata,FALSE,TRUE,TRUE,over-complimenting
-1992-10-17,1992-11-02,Bailey Cardenas,Michael Smith,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,TRUE,FALSE,TRUE,friendly
+1992-10-17,1992-11-02,Bailey Cardenas,Michael Smith,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,TRUE,FALSE,TRUE,friendly
 2004-11-22,2004-11-29,Adam Zimmerman,Brendan Love,41.82143,41.77921,Kobuleti,GE,Tbilisi,FALSE,TRUE,TRUE,happy
 1986-11-12,1986-12-29,Michael Valentine,Kaitlyn Booker,41.94175,123.50266,Hushitai,CN,Shanghai,FALSE,TRUE,TRUE,confessing
 1996-06-02,1996-07-11,Adriana Meyer,Matthew Chavez,36.33011,138.89585,Annaka,JP,Tokyo,FALSE,FALSE,TRUE,panicking
@@ -662,7 +662,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1992-02-23,1992-04-22,Kristin Velazquez,Patricia Miller,29.22254,79.5286,Haldwani,IN,Kolkata,FALSE,TRUE,TRUE,silent
 2013-04-06,2013-04-27,Chris Welch,Crystal Kelly,45.75279,130.57211,Boli,CN,Shanghai,FALSE,FALSE,TRUE,worried
 2011-09-11,2011-10-20,Jim Jackson,Nicole Adams,36.24624,139.07204,Fujioka,JP,Tokyo,FALSE,FALSE,TRUE,panicking
-2005-03-31,2005-05-12,Summer Mitchell,Elizabeth Cooper,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,TRUE,TRUE,TRUE,unhappy
+2005-03-31,2005-05-12,Summer Mitchell,Elizabeth Cooper,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,TRUE,TRUE,TRUE,unhappy
 2001-08-22,2001-08-24,James Lutz,Amber Wright,37.56667,140.11667,Inawashiro,JP,Tokyo,FALSE,TRUE,TRUE,friendly
 2006-11-10,2006-12-12,Sarah Smith,Jasmine Rowland,51.4781,57.3552,Kuvandyk,RU,Yekaterinburg,FALSE,FALSE,TRUE,injured
 2017-10-22,2017-12-12,Penny Tapia,Michelle Jarvis,12.04161,75.35927,Talipparamba,IN,Kolkata,FALSE,TRUE,TRUE,worried
@@ -687,7 +687,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1997-05-10,1997-07-02,Monica Robinson,Andre Lamb,32.05971,34.8732,Ganei Tikva,IL,Jerusalem,FALSE,TRUE,TRUE,out-of-control
 2011-12-06,2011-12-24,Sylvia Payne,Jennifer Cook,14.14989,121.3152,Calauan,PH,Manila,FALSE,TRUE,TRUE,injured
 2003-06-01,2003-07-19,Jamie Morgan,Eric Roberts,10.7375,122.9666,Talisay,PH,Manila,FALSE,TRUE,TRUE,worried
-1998-04-17,1998-05-03,Melissa Owens,Denise Park,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,oblivious
+1998-04-17,1998-05-03,Melissa Owens,Denise Park,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,oblivious
 1992-02-21,1992-03-27,Tony Kim,Judith Meyer,18.18158,76.03889,Osmanabad,IN,Kolkata,FALSE,TRUE,TRUE,over-complimenting
 1997-04-08,1997-05-02,Jerry Henson,Ashley Carr,6.33444,124.95278,Tupi,PH,Manila,FALSE,TRUE,TRUE,scared
 1989-11-24,1989-12-22,Kevin Harris,Lisa Sweeney,36.6009,126.665,Hongseong,KR,Seoul,FALSE,FALSE,TRUE,insulting
@@ -752,7 +752,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1992-03-08,1992-04-23,Sharon Beard,Adam Irwin,5.4709,100.24529,Batu Feringgi,MY,Kuala Lumpur,TRUE,FALSE,TRUE,injured
 1990-01-17,1990-02-27,Brittney Nelson,Todd Garcia,12.37169,123.62494,Masbate,PH,Manila,FALSE,FALSE,TRUE,sad
 2007-05-30,2007-07-12,Leslie Haynes,Carrie Boone,23.18,88.58,Aistala,IN,Kolkata,FALSE,TRUE,FALSE,lonely
-1998-11-06,1998-11-15,Sydney Lewis,Hannah Palmer,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,oblivious
+1998-11-06,1998-11-15,Sydney Lewis,Hannah Palmer,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,oblivious
 2008-08-31,2008-09-13,Melanie Wilson,Christopher Sandoval,10.20898,123.758,Naga,PH,Manila,FALSE,TRUE,TRUE,insulting
 2007-11-06,2007-12-13,Jody Edwards,Michael Riddle,28.71271,77.656,Pilkhua,IN,Kolkata,FALSE,TRUE,FALSE,worried
 1992-03-30,1992-04-24,Sarah Olsen,Christina Krause,14.46693,75.92694,Davangere,IN,Kolkata,FALSE,TRUE,TRUE,fleeing
@@ -788,7 +788,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2000-07-07,2000-07-31,Robert Love,Adam Smith,51.4781,57.3552,Kuvandyk,RU,Yekaterinburg,FALSE,TRUE,TRUE,injured
 2015-04-16,2015-05-16,Tony Campbell,William Joseph,27.85,112.9,Xiangtan,CN,Shanghai,TRUE,TRUE,TRUE,oblivious
 2010-08-05,2010-09-07,Stephanie Harris,Ashley Davis,26.76628,83.36889,Gorakhpur,IN,Kolkata,FALSE,TRUE,TRUE,oblivious
-2018-04-06,2018-05-23,Mark Jordan,Jeffrey Johnson,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,FALSE,TRUE,hostile
+2018-04-06,2018-05-23,Mark Jordan,Jeffrey Johnson,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,FALSE,TRUE,hostile
 1988-10-16,1988-11-20,Brandon Hernandez,Stephen Mills,30.81383,75.16878,Moga,IN,Kolkata,FALSE,TRUE,TRUE,paranoid
 2000-11-10,2000-12-17,Jeffrey Mitchell,Valerie Griffin,33.3213,130.94098,Hita,JP,Tokyo,FALSE,FALSE,TRUE,oblivious
 1986-01-18,1986-01-26,John Palmer,Amy Bray,26.44931,91.61356,Rangia,IN,Kolkata,TRUE,FALSE,TRUE,confessing
@@ -824,7 +824,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2003-04-12,2003-04-16,Mr. Anthony Miller MD,Jimmy Patel,-6.48167,106.85417,Cibinong,ID,Jakarta,TRUE,FALSE,TRUE,lonely
 1997-12-15,1998-01-24,Eric Davis,Matthew Brown,41.09246,45.36561,Qazax,AZ,Baku,FALSE,TRUE,TRUE,friendly
 2017-02-17,2017-03-15,Derrick Phillips,David Harrington,27.85,112.9,Xiangtan,CN,Shanghai,FALSE,TRUE,TRUE,lonely
-2013-11-22,2013-12-26,Timothy Mason,Brooke Crawford,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,fleeing
+2013-11-22,2013-12-26,Timothy Mason,Brooke Crawford,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,fleeing
 2014-11-24,2014-11-30,Rachel Rowland,Maurice Mccarthy,13.8196,100.04427,Nakhon Pathom,TH,Bangkok,FALSE,TRUE,TRUE,oblivious
 2008-12-13,2008-12-13,Charles Patterson,Allen Baker,34.4833,136.84186,Toba,JP,Tokyo,FALSE,TRUE,TRUE,talkative
 1986-01-16,1986-02-09,Amanda Owens,Joseph Nguyen,22.4711,88.1453,Pujali,IN,Kolkata,FALSE,TRUE,TRUE,paranoid
@@ -868,7 +868,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2013-10-11,2013-11-09,Kathleen Woods,Nathaniel Jackson,34.86472,117.55417,Zaozhuang,CN,Shanghai,FALSE,FALSE,TRUE,silent
 2011-08-20,2011-09-25,Laura Grimes,Ashley Carr,24.28859,116.11768,Meizhou,CN,Shanghai,FALSE,TRUE,TRUE,insulting
 1988-03-28,1988-05-14,Michael Sandoval,Bryce Alvarado,23.5654,119.58627,Magong,TW,Taipei,TRUE,TRUE,TRUE,injured
-2006-07-26,2006-09-17,James Wright,James Brock,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,out-of-control
+2006-07-26,2006-09-17,James Wright,James Brock,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,out-of-control
 2014-07-23,2014-09-08,John Strickland,Patricia Williams,-1.6,103.61667,Jambi City,ID,Jakarta,FALSE,TRUE,TRUE,over-complimenting
 2002-03-27,2002-05-05,Regina Martin,Isabel Webb,36.20389,127.08472,Nonsan,KR,Seoul,FALSE,TRUE,TRUE,friendly
 1992-12-12,1992-12-27,Lawrence Sawyer,Stephanie Brooks,26.32293,91.00632,Barpeta,IN,Kolkata,FALSE,TRUE,FALSE,sad
@@ -1011,7 +1011,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1999-06-01,1999-07-15,Adam Williams,James Williams,2.2139,102.3278,Kampung Ayer Molek,MY,Kuala Lumpur,FALSE,TRUE,TRUE,tense
 1994-07-27,1994-08-13,Rhonda Brady,Latasha Norris,18.18158,76.03889,Osmanabad,IN,Kolkata,FALSE,FALSE,TRUE,happy
 1991-10-08,1991-10-14,Elizabeth Sutton,Sandra Ramos,34.81667,137.4,Toyokawa,JP,Tokyo,FALSE,TRUE,TRUE,scared
-1992-04-03,1992-04-25,Jennifer Moses,Cathy Durham,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,over-complimenting
+1992-04-03,1992-04-25,Jennifer Moses,Cathy Durham,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,over-complimenting
 1995-06-15,1995-07-31,Mason Mathis,Mary Scott,23.1959,86.51499,Kenda,IN,Kolkata,FALSE,TRUE,TRUE,accusatory
 1986-06-09,1986-06-28,Shawn Fox,Robert Jenkins,10.12268,77.54372,Periyakulam,IN,Kolkata,FALSE,TRUE,TRUE,tense
 1997-07-27,1997-09-05,Jason Jones,Stephen Ferguson,27.34089,117.4831,Shaowu,CN,Shanghai,FALSE,FALSE,TRUE,panicking
@@ -1181,7 +1181,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1987-12-28,1988-01-10,Daniel Brown,Deborah Harrison,6.84019,79.87116,Dehiwala-Mount Lavinia,LK,Colombo,FALSE,TRUE,TRUE,lonely
 2010-07-04,2010-07-09,Valerie Huang,Sara Chavez,53.14657,140.72287,Nikolayevsk-on-Amure,RU,Vladivostok,FALSE,TRUE,TRUE,hostile
 2000-10-10,2000-11-10,Andrew Flores,Nicholas Jones,24.81757,84.63445,Rafiganj,IN,Kolkata,FALSE,TRUE,TRUE,lonely
-1989-02-12,1989-02-28,Breanna Meadows,Christine Shah,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,out-of-control
+1989-02-12,1989-02-28,Breanna Meadows,Christine Shah,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,out-of-control
 2012-12-24,2013-01-30,Jeremiah Robinson,Stephen Graham,27.9247,78.40102,Chharra,IN,Kolkata,FALSE,FALSE,TRUE,over-complimenting
 1994-02-20,1994-02-24,Mrs. Rebekah Pope,Joseph Moore DVM,25.6439,77.9129,Narwar,IN,Kolkata,FALSE,TRUE,TRUE,unhappy
 1986-05-13,1986-06-13,Haley Scott,Chad Chandler,6.9909,79.883,Hendala,LK,Colombo,FALSE,FALSE,TRUE,lonely
@@ -1407,7 +1407,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2002-04-23,2002-05-12,Douglas Evans,Timothy Davis,34.86472,117.55417,Zaozhuang,CN,Shanghai,FALSE,FALSE,TRUE,unhappy
 2015-07-15,2015-08-28,William Mckay,Timothy Frank,25.92127,86.79271,Madhipura,IN,Kolkata,TRUE,TRUE,TRUE,happy
 1988-09-29,1988-11-23,Denise Blankenship,Andrew Sullivan,14.64056,104.64992,Kantharalak,TH,Bangkok,FALSE,FALSE,FALSE,over-complimenting
-1993-05-22,1993-07-07,Christina Bryan,Mackenzie Gilbert,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,FALSE,TRUE,insulting
+1993-05-22,1993-07-07,Christina Bryan,Mackenzie Gilbert,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,FALSE,TRUE,insulting
 2020-03-02,2020-04-12,Zachary Castro,Tony Bell,8.43333,99.96667,Nakhon Si Thammarat,TH,Bangkok,TRUE,TRUE,TRUE,injured
 2005-08-01,2005-09-15,Michael Walker,Bryce Alvarado,13.44581,101.18445,Phanat Nikhom,TH,Bangkok,FALSE,TRUE,TRUE,unhappy
 2002-07-09,2002-07-27,Patrick Smith,Kathryn Martin,41.29444,69.67639,Parkent,UZ,Tashkent,FALSE,FALSE,TRUE,accusatory
@@ -1486,7 +1486,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1991-05-14,1991-05-27,Amber Liu,Nicole Hinton,34.75856,136.13108,Ueno-ebisumachi,JP,Tokyo,FALSE,TRUE,TRUE,lonely
 1994-01-08,1994-02-10,April Kirby,Dean Martinez,14.62578,121.12251,Antipolo,PH,Manila,FALSE,TRUE,TRUE,scared
 1986-06-20,1986-07-09,Christian Webb,Lacey Brown,27.34089,117.4831,Shaowu,CN,Shanghai,FALSE,TRUE,TRUE,fleeing
-1994-10-09,1994-11-08,Marvin Parrish,Micheal Thomas,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,TRUE,FALSE,TRUE,tense
+1994-10-09,1994-11-08,Marvin Parrish,Micheal Thomas,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,TRUE,FALSE,TRUE,tense
 1999-09-26,1999-10-15,Mr. Paul Becker DVM,Nicole Payne,14.62578,121.12251,Antipolo,PH,Manila,FALSE,TRUE,TRUE,fleeing
 2013-04-18,2013-05-31,Brian Burton,Kimberly Perez,53.30972,83.62389,Novosilikatnyy,RU,Barnaul,FALSE,TRUE,TRUE,complaining
 2022-03-16,2022-05-05,Michael Phillips,Anthony Harris,10.58806,77.24779,Udumalaippettai,IN,Kolkata,FALSE,TRUE,TRUE,over-complimenting
@@ -1516,13 +1516,13 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2019-02-16,2019-04-02,Brooke Stone,Christopher Sandoval,40.49748,44.7662,Hrazdan,AM,Yerevan,FALSE,TRUE,TRUE,silent
 2012-12-12,2013-01-16,Andrew Cooley,Robert Baird,36.21544,65.93249,Sar-e Pul,AF,Kabul,FALSE,FALSE,TRUE,complaining
 2011-03-05,2011-04-17,Brooke Cochran,Stephen Ferguson,35.50056,117.63083,Pingyi,CN,Shanghai,FALSE,TRUE,TRUE,friendly
-2018-08-24,2018-09-20,Karen Miller,Julie Lopez,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,complaining
+2018-08-24,2018-09-20,Karen Miller,Julie Lopez,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,complaining
 1985-10-21,1985-11-29,Jonathan Soto,Jeffrey Johnson,16.455,120.5875,La Trinidad,PH,Manila,FALSE,FALSE,TRUE,talkative
 2005-03-22,2005-05-15,Lauren Elliott,Jennifer Shannon,58.63667,59.80222,Lesnoy,RU,Yekaterinburg,TRUE,FALSE,TRUE,worried
 2007-05-22,2007-07-14,Amanda Garcia,Brooke Crawford,18.87813,72.93924,Uran,IN,Kolkata,FALSE,TRUE,TRUE,oblivious
 2020-02-19,2020-03-19,Michael Pope,Jerry Stephenson,11.50526,77.23826,Sathyamangalam,IN,Kolkata,FALSE,FALSE,FALSE,insulting
 2015-03-16,2015-04-02,Caroline Murphy,Rhonda Jones,15.45144,78.14797,Betamcherla,IN,Kolkata,TRUE,TRUE,FALSE,worried
-1993-10-24,1993-11-26,Dr. Christopher Tucker,Gabriel Jones,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,confessing
+1993-10-24,1993-11-26,Dr. Christopher Tucker,Gabriel Jones,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,confessing
 1999-09-19,1999-10-18,Maria Hood,Logan Duncan,37.65639,126.835,Goyang-si,KR,Seoul,FALSE,FALSE,TRUE,complaining
 1994-08-25,1994-10-15,Justin Kramer,Robert Merritt,44.35056,142.45778,Nayoro,JP,Tokyo,FALSE,TRUE,TRUE,silent
 1988-11-22,1988-12-17,Tiffany Ibarra,David Simmons,32.55531,76.12647,Chamba,IN,Kolkata,FALSE,TRUE,TRUE,panicking
@@ -1619,7 +1619,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1993-01-17,1993-01-21,Ross Smith,Chad Chandler,21.53889,71.57737,Gariadhar,IN,Kolkata,FALSE,FALSE,TRUE,happy
 2020-09-25,2020-10-25,Nancy Russell,Kathleen Munoz,37.65181,120.33063,Longgang,CN,Shanghai,FALSE,TRUE,FALSE,fleeing
 2004-10-26,2004-11-09,Renee Perry,Brian Delacruz,34.56861,105.89333,Beidao,CN,Shanghai,FALSE,FALSE,TRUE,talkative
-2014-04-11,2014-06-04,Ryan Gonzalez DDS,Daniel Lewis,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,confessing
+2014-04-11,2014-06-04,Ryan Gonzalez DDS,Daniel Lewis,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,confessing
 2012-11-04,2012-12-12,Andrew Lopez,James Burnett,12.37169,123.62494,Masbate,PH,Manila,FALSE,TRUE,TRUE,hostile
 2009-05-18,2009-06-24,Jesse Bailey,Anthony Harris,6.33444,124.95278,Tupi,PH,Manila,FALSE,FALSE,TRUE,unhappy
 2010-03-30,2010-03-30,Marcus Woods,Mark Valenzuela,32.87533,71.57118,Daud Khel,PK,Karachi,FALSE,FALSE,FALSE,over-complimenting
@@ -1667,7 +1667,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1991-04-16,1991-05-10,John Mullen,Grant Humphrey,32.87533,71.57118,Daud Khel,PK,Karachi,FALSE,TRUE,TRUE,silent
 1995-08-31,1995-10-28,Keith Perry,Sue Norman DVM,26.9423,68.11759,Tharu Shah,PK,Karachi,FALSE,TRUE,TRUE,out-of-control
 1996-04-24,1996-04-25,Sean Jones,Julia Cannon,37.65639,126.835,Goyang-si,KR,Seoul,TRUE,TRUE,TRUE,worried
-1994-11-16,1995-01-01,Suzanne Stone,Jennifer Snyder,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,FALSE,FALSE,out-of-control
+1994-11-16,1995-01-01,Suzanne Stone,Jennifer Snyder,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,FALSE,FALSE,out-of-control
 2012-08-24,2012-08-31,Yolanda Dickerson,James Williams,34.65918,109.22921,Yanliang,CN,Shanghai,FALSE,FALSE,TRUE,friendly
 2016-06-20,2016-07-21,Sara Medina,Ryan Watkins,12.35275,121.06761,San Jose,PH,Manila,FALSE,TRUE,TRUE,silent
 2001-09-27,2001-11-14,Sarah Aguilar,Lauren Mccoy,6.95194,121.96361,Recodo,PH,Manila,FALSE,TRUE,TRUE,worried
@@ -1843,7 +1843,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1996-09-17,1996-11-03,Donna Jordan,Julie Lopez,51.82721,107.60627,Ulan-Ude,RU,Irkutsk,FALSE,TRUE,TRUE,evasive
 2000-10-26,2000-12-19,Penny Mendoza,Tiffany Bennett,36.20389,127.08472,Nonsan,KR,Seoul,FALSE,FALSE,TRUE,confessing
 2011-02-20,2011-03-14,Geoffrey Long,Brian Velasquez,26.2649,81.54855,Jais,IN,Kolkata,FALSE,FALSE,TRUE,injured
-2021-09-06,2021-10-01,Andrew Shaw,Andrew Miranda,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,oblivious
+2021-09-06,2021-10-01,Andrew Shaw,Andrew Miranda,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,oblivious
 1995-12-31,1996-02-28,Michael Wagner,Phillip Quinn,-6.48167,106.85417,Cibinong,ID,Jakarta,FALSE,FALSE,TRUE,injured
 1986-02-14,1986-03-13,Steven Miller,Stephen Ferguson,29.38242,70.91106,Alipur,PK,Karachi,FALSE,TRUE,FALSE,tense
 2005-12-20,2005-12-22,Molly Cooper,Deborah Harrison,26.76628,83.36889,Gorakhpur,IN,Kolkata,FALSE,FALSE,TRUE,scared
@@ -2099,17 +2099,17 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2014-05-05,2014-05-12,Natalie Anderson,Jerry Erickson,31.78336,35.23388,East Jerusalem,PS,Hebron,FALSE,FALSE,FALSE,complaining
 2003-09-23,2003-10-29,Allison Nelson,James Williams,35.50056,117.63083,Pingyi,CN,Shanghai,FALSE,FALSE,TRUE,unhappy
 1989-09-05,1989-09-25,Taylor Edwards,Joseph Moore DVM,6.25947,102.05461,Tak Bai,TH,Bangkok,FALSE,TRUE,TRUE,complaining
-1993-09-26,1993-11-07,Laura Thompson,Timothy Davis,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,panicking
+1993-09-26,1993-11-07,Laura Thompson,Timothy Davis,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,panicking
 1986-01-06,1986-01-22,John Young,Mary Scott,29.21399,78.95693,Kashipur,IN,Kolkata,FALSE,TRUE,TRUE,scared
 2011-06-14,2011-06-25,Mrs. Renee Ross,Zachary Hawkins,24.81757,84.63445,Rafiganj,IN,Kolkata,FALSE,TRUE,TRUE,unhappy
 1989-01-02,1989-03-01,Brittany Cruz,Adam Mathis,22.19303,88.18466,Diamond Harbour,IN,Kolkata,FALSE,TRUE,TRUE,out-of-control
 1987-08-17,1987-10-13,Nicole Morgan,Michael Higgins,14.8361,120.97844,Guyong,PH,Manila,FALSE,TRUE,TRUE,fleeing
-2022-02-05,2022-03-08,Jeffery Martinez,Billy White,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,talkative
+2022-02-05,2022-03-08,Jeffery Martinez,Billy White,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,talkative
 1990-08-01,1990-09-08,Andres Carey,Dr. Crystal Mccormick,15.79408,104.1451,Yasothon,TH,Bangkok,FALSE,TRUE,TRUE,over-complimenting
 2015-05-05,2015-06-02,Amy Barton,Micheal Thomas,27.85,112.9,Xiangtan,CN,Shanghai,FALSE,FALSE,TRUE,sad
 2010-11-26,2010-12-14,Mrs. Melissa Freeman,Darren Simpson,5.90702,116.10146,Donggongon,MY,Kuching,FALSE,TRUE,FALSE,out-of-control
 1999-01-27,1999-02-08,Andrea Gibbs DVM,Nicole Scott,47.46657,84.87144,Zaysan,KZ,Almaty,TRUE,TRUE,TRUE,hostile
-1995-11-28,1995-12-09,Steven Norton,Zachary Moore,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,hostile
+1995-11-28,1995-12-09,Steven Norton,Zachary Moore,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,hostile
 1995-03-24,1995-04-18,Christopher Rodriguez,Michael Bailey,36.20389,127.08472,Nonsan,KR,Seoul,FALSE,TRUE,FALSE,happy
 1995-12-12,1996-02-08,John Short,Stephanie Taylor,46.51872,86.00214,Hoxtolgay,CN,Urumqi,FALSE,FALSE,TRUE,over-complimenting
 2012-12-17,2013-01-11,Jeremy Armstrong,Katelyn Garcia,14.66,120.56528,Pilar,PH,Manila,FALSE,TRUE,TRUE,scared
@@ -2191,7 +2191,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1989-04-04,1989-04-06,Nicholas Mathews,Andre Lamb,32.55531,76.12647,Chamba,IN,Kolkata,FALSE,FALSE,TRUE,silent
 2021-09-23,2021-10-11,Ronald King,Jason Berg,38.40917,112.73333,Xinzhou,CN,Shanghai,FALSE,FALSE,TRUE,complaining
 2015-09-12,2015-09-30,Nicholas Foster,Dominic Peters,10.29085,105.75635,Sa Dec,VN,Ho Chi Minh,FALSE,FALSE,TRUE,over-complimenting
-2019-04-30,2019-06-23,Robert Gonzalez,Robert Meyer,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,lonely
+2019-04-30,2019-06-23,Robert Gonzalez,Robert Meyer,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,lonely
 2020-07-25,2020-09-07,Melissa Thompson,Garrett Lawrence,47.46657,84.87144,Zaysan,KZ,Almaty,FALSE,TRUE,TRUE,tense
 2009-10-10,2009-12-08,Anne Flores,Adam Montes,3.3285,99.1625,Tebingtinggi,ID,Jakarta,TRUE,FALSE,TRUE,confessing
 2004-05-02,2004-05-07,Wesley White,Gregory Hanson,28.71271,77.656,Pilkhua,IN,Kolkata,FALSE,TRUE,TRUE,complaining
@@ -2202,7 +2202,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1998-09-25,1998-09-30,Tami Mendez,Alan Ford,33.37526,74.3092,Rajaori,IN,Kolkata,FALSE,TRUE,TRUE,scared
 2017-12-05,2017-12-29,Shannon Williams,Tanya Conley,18.51957,73.85535,Pune,IN,Kolkata,FALSE,TRUE,TRUE,injured
 1992-10-03,1992-11-29,Gary Adams,James Whitehead,34.65918,109.22921,Yanliang,CN,Shanghai,FALSE,FALSE,TRUE,evasive
-1992-06-23,1992-07-26,Kayla Love,Jeanette Martinez,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,lonely
+1992-06-23,1992-07-26,Kayla Love,Jeanette Martinez,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,lonely
 2007-07-03,2007-07-13,Mary Chapman,Zachary Moore,23.07492,88.28637,Pandua,IN,Kolkata,FALSE,FALSE,TRUE,injured
 1989-04-30,1989-05-11,Robert Rodriguez,Richard Reyes,-7.73379,113.69785,Besuki,ID,Jakarta,TRUE,FALSE,TRUE,worried
 2015-05-20,2015-06-13,Tara Cook,Gabriel Jones,40.66482,122.22833,Yingkou,CN,Shanghai,FALSE,TRUE,TRUE,accusatory
@@ -2226,7 +2226,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1992-07-01,1992-07-22,Michele Gilbert DVM,David Murphy,16.0438,120.4861,Manaoag,PH,Manila,TRUE,TRUE,TRUE,hostile
 1996-08-08,1996-09-11,Norma Mcgee,Tracy Young,3.7278,98.6738,Labuhan Deli,ID,Jakarta,FALSE,TRUE,TRUE,insulting
 1986-09-09,1986-10-13,Brittney Casey,Amy Gomez,36.53333,136.61667,Nonoichi,JP,Tokyo,FALSE,FALSE,FALSE,silent
-1993-06-02,1993-07-26,Kelly Hernandez,Valerie Griffin,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,happy
+1993-06-02,1993-07-26,Kelly Hernandez,Valerie Griffin,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,happy
 1993-10-14,1993-12-07,Jessica Marsh,Cristina Reynolds,34.56861,105.89333,Beidao,CN,Shanghai,FALSE,TRUE,TRUE,lonely
 1994-01-19,1994-01-22,Daniel Russell,Kathleen Hicks,11.93381,79.82979,Puducherry,IN,Kolkata,FALSE,TRUE,TRUE,oblivious
 1992-08-09,1992-08-25,Anthony Harrison,Marie Hill,32.05971,34.8732,Ganei Tikva,IL,Jerusalem,FALSE,FALSE,TRUE,panicking
@@ -2673,9 +2673,9 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1989-07-08,1989-07-24,Mr. Ian Rodriguez MD,Kevin Martin,9.3337,122.8637,Santa Catalina,PH,Manila,FALSE,TRUE,TRUE,panicking
 2012-10-07,2012-10-12,Alison Wolfe,Jessica Rogers,13.8196,100.04427,Nakhon Pathom,TH,Bangkok,TRUE,FALSE,TRUE,confessing
 1991-12-31,1992-02-01,Ryan Gonzalez,Michelle Green,44.85278,65.50917,Kyzylorda,KZ,Qyzylorda,TRUE,TRUE,TRUE,happy
-2012-02-18,2012-03-04,Jacqueline Brown,Emily Stephens,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,unhappy
+2012-02-18,2012-03-04,Jacqueline Brown,Emily Stephens,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,unhappy
 2010-11-11,2011-01-02,Christopher Farrell,James Kennedy,10.58806,77.24779,Udumalaippettai,IN,Kolkata,FALSE,FALSE,TRUE,talkative
-1998-07-04,1998-07-30,David Jordan,Jesse Boyd,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,friendly
+1998-07-04,1998-07-30,David Jordan,Jesse Boyd,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,friendly
 2015-12-23,2016-02-11,Tanya Chase,Kenneth Barrett,35.64889,117.27583,Sishui,CN,Shanghai,FALSE,TRUE,TRUE,unhappy
 2005-07-04,2005-08-17,Jacqueline Mitchell,Adam Mathis,21.53889,71.57737,Gariadhar,IN,Kolkata,FALSE,TRUE,TRUE,insulting
 1991-05-23,1991-07-02,Daniel Smith,Laura Parks,-7.0981,109.3243,Randudongkal,ID,Jakarta,FALSE,TRUE,TRUE,insulting
@@ -2696,7 +2696,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2020-07-03,2020-07-27,Anthony Rodriguez,Denise Kramer,-1.6,103.61667,Jambi City,ID,Jakarta,FALSE,TRUE,TRUE,unhappy
 2004-09-28,2004-10-12,Kathryn Clark,Emily Ruiz,37.56667,140.11667,Inawashiro,JP,Tokyo,FALSE,TRUE,TRUE,panicking
 1989-06-23,1989-08-17,Henry Bowers,Christopher Miller,-1.26424,104.09701,Simpang,ID,Jakarta,TRUE,TRUE,TRUE,confessing
-1986-08-06,1986-10-04,Kristina Cox,Kathryn Martin,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,talkative
+1986-08-06,1986-10-04,Kristina Cox,Kathryn Martin,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,talkative
 1988-11-26,1989-01-14,Jeremy Davis,Megan West,14.46693,75.92694,Davangere,IN,Kolkata,FALSE,TRUE,TRUE,talkative
 1997-12-25,1998-01-10,Mrs. Amber Williams,Nicole Rogers,6.95194,121.96361,Recodo,PH,Manila,FALSE,TRUE,TRUE,out-of-control
 2020-03-12,2020-03-19,Joseph Bryan,Micheal Thomas,32.57756,71.52847,Mianwali,PK,Karachi,FALSE,FALSE,TRUE,over-complimenting
@@ -2726,12 +2726,12 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2019-07-30,2019-09-25,Mr. Joshua Berry,Ronnie Anthony,30.24706,115.04814,Huangshi,CN,Shanghai,FALSE,TRUE,FALSE,over-complimenting
 1999-11-27,2000-01-12,Jody Murray,Kathleen Munoz,14.62072,74.83554,Sirsi,IN,Kolkata,FALSE,FALSE,TRUE,over-complimenting
 1992-07-24,1992-08-31,Lisa Hayes,Eric French,30.21121,74.4818,Malaut,IN,Kolkata,FALSE,FALSE,TRUE,panicking
-2009-09-25,2009-09-29,Tammy Morton,Nathaniel Jackson,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,tense
+2009-09-25,2009-09-29,Tammy Morton,Nathaniel Jackson,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,tense
 2008-12-28,2009-02-18,Jacob Charles,Kathryn Martin,25.6439,77.9129,Narwar,IN,Kolkata,FALSE,TRUE,TRUE,over-complimenting
 1988-12-14,1989-01-04,Mary Cannon,Dawn Lopez,33.78333,114.51667,Wacheng,CN,Shanghai,FALSE,TRUE,TRUE,hostile
 1993-02-27,1993-04-09,Rachel Contreras,Justin White,31.28092,74.85849,Patti,IN,Kolkata,FALSE,FALSE,TRUE,lonely
 2008-07-27,2008-09-23,Richard Dixon,Natalie Jordan,47.90771,106.88324,Ulan Bator,MN,Ulaanbaatar,FALSE,TRUE,TRUE,over-complimenting
-2010-09-06,2010-10-01,Cody Stanley,Jacqueline Maldonado,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,FALSE,lonely
+2010-09-06,2010-10-01,Cody Stanley,Jacqueline Maldonado,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,FALSE,lonely
 1986-10-09,1986-10-28,Mr. Christian Smith,Gregory Moore,-7.73379,113.69785,Besuki,ID,Jakarta,FALSE,TRUE,TRUE,insulting
 1989-10-12,1989-11-23,Katrina Young,Meredith Gibbs,-7.01833,107.60389,Pameungpeuk,ID,Jakarta,FALSE,TRUE,TRUE,talkative
 1994-01-21,1994-02-19,Michael Pierce,Kathleen Munoz,10.7375,122.9666,Talisay,PH,Manila,TRUE,TRUE,TRUE,complaining
@@ -2776,7 +2776,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1995-09-19,1995-10-31,Brianna Fischer,Eric Roberts,15.73628,75.96976,Gajendragarh,IN,Kolkata,FALSE,FALSE,TRUE,lonely
 2019-04-13,2019-04-26,Christine Woods,Shelia Holmes,34.56861,105.89333,Beidao,CN,Shanghai,FALSE,TRUE,TRUE,evasive
 2015-05-21,2015-06-21,Mark Haas,Michael Barron,9.82564,78.25795,Tiruppuvanam,IN,Kolkata,FALSE,FALSE,TRUE,unhappy
-2012-04-19,2012-05-24,Ashley Lewis,Jerry Collins,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,sad
+2012-04-19,2012-05-24,Ashley Lewis,Jerry Collins,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,FALSE,TRUE,sad
 2021-05-04,2021-05-22,Travis Randolph,Jordan Torres,56.11281,69.49015,Ishim,RU,Yekaterinburg,FALSE,TRUE,TRUE,out-of-control
 1992-04-27,1992-06-05,Stephanie Morgan,Loretta Wood,31.82539,72.54064,Sillanwali,PK,Karachi,FALSE,TRUE,TRUE,scared
 2013-10-04,2013-11-15,Garrett Bennett,Marie Hill,16.06213,76.0586,Hungund,IN,Kolkata,FALSE,TRUE,TRUE,unhappy
@@ -2815,7 +2815,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2021-01-22,2021-03-01,Jacob Tapia,Christopher Greer,21.46527,83.97573,Sambalpur,IN,Kolkata,FALSE,TRUE,FALSE,oblivious
 2020-07-27,2020-08-09,Daniel Hood,Amy Moore,39.46667,141.95,Yamada,JP,Tokyo,FALSE,TRUE,TRUE,hostile
 2009-05-12,2009-06-28,Christopher Ford,Richard Lambert,22.83957,91.84128,Manikchari,BD,Dhaka,TRUE,FALSE,TRUE,friendly
-1996-01-07,1996-01-08,James Harding,Daniel Lewis,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,confessing
+1996-01-07,1996-01-08,James Harding,Daniel Lewis,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,confessing
 2005-07-25,2005-09-22,Carlos Sullivan,Regina Henderson,23.73333,114.68333,Heyuan,CN,Shanghai,FALSE,TRUE,TRUE,out-of-control
 1987-05-06,1987-05-28,Anthony Thompson,Anita Gray,45.35,126.28333,Shuangcheng,CN,Shanghai,FALSE,TRUE,TRUE,insulting
 2017-01-23,2017-03-11,Ian Ayers,Justin White,32.50611,120.14278,Jiangyan,CN,Shanghai,FALSE,FALSE,TRUE,complaining
@@ -2849,7 +2849,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2002-08-13,2002-09-02,William Montgomery,Ashley Taylor,33.4425,129.96972,Karatsu,JP,Tokyo,TRUE,FALSE,FALSE,accusatory
 1991-10-26,1991-12-24,Jody Bentley,Carrie Jones,14.95472,120.89694,Baliuag,PH,Manila,FALSE,TRUE,TRUE,worried
 2008-10-25,2008-11-09,Anthony Lucas,Hunter Lee,14.66,120.56528,Pilar,PH,Manila,FALSE,TRUE,TRUE,confessing
-2008-06-30,2008-07-25,Angel Ryan,William Knight,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,fleeing
+2008-06-30,2008-07-25,Angel Ryan,William Knight,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,fleeing
 2000-03-27,2000-05-12,Jessica Powers,Anthony Hamilton,26.2649,81.54855,Jais,IN,Kolkata,FALSE,TRUE,TRUE,fleeing
 2020-10-20,2020-11-17,Sean Simpson,Michael Sims,20.88098,75.11937,Parola,IN,Kolkata,TRUE,TRUE,TRUE,unhappy
 2017-05-27,2017-06-09,Joshua Cruz,Frank Gutierrez,26.32293,91.00632,Barpeta,IN,Kolkata,FALSE,TRUE,TRUE,lonely
@@ -2872,7 +2872,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1987-12-25,1988-01-30,Christy Williams,Dana Parker,46.08333,122.08333,Ulanhot,CN,Shanghai,FALSE,TRUE,TRUE,unhappy
 1987-05-19,1987-06-24,Kevin Allen,Alan Ford,37.56667,140.11667,Inawashiro,JP,Tokyo,FALSE,TRUE,TRUE,lonely
 1997-06-26,1997-07-06,Natalie Holden,Fernando Davis,3.3285,99.1625,Tebingtinggi,ID,Jakarta,TRUE,TRUE,TRUE,silent
-2018-07-07,2018-08-01,Heather Adams,Kenneth Barrett,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,sad
+2018-07-07,2018-08-01,Heather Adams,Kenneth Barrett,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,sad
 1985-12-27,1986-01-30,Andrew Ward,Mackenzie Gilbert,12.25282,79.41727,Gingee,IN,Kolkata,FALSE,TRUE,TRUE,oblivious
 2019-11-01,2019-12-29,James Moore,William Zuniga,51.4781,57.3552,Kuvandyk,RU,Yekaterinburg,FALSE,TRUE,TRUE,out-of-control
 2014-05-10,2014-06-02,Gabrielle Martin,Nicole Adams,15.58552,102.42587,Bua Yai,TH,Bangkok,FALSE,FALSE,TRUE,tense
@@ -3066,7 +3066,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2011-01-29,2011-02-24,Bonnie Marshall,Kendra Mercado,36.81667,117.81667,Zhoucun,CN,Shanghai,FALSE,TRUE,TRUE,lonely
 2020-01-29,2020-03-07,Michael Zamora,Carrie Jones,36.81667,117.81667,Zhoucun,CN,Shanghai,FALSE,FALSE,TRUE,complaining
 1992-06-02,1992-07-01,Austin Price,Samuel Jackson,12.35275,121.06761,San Jose,PH,Manila,FALSE,TRUE,TRUE,accusatory
-2014-03-31,2014-05-09,Christina Graham,Michael Mercer,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,FALSE,TRUE,paranoid
+2014-03-31,2014-05-09,Christina Graham,Michael Mercer,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,FALSE,TRUE,paranoid
 1994-04-29,1994-06-11,James Parks,William Gallagher,41.29444,69.67639,Parkent,UZ,Tashkent,FALSE,TRUE,TRUE,insulting
 2013-01-16,2013-02-19,Shannon Fox,Matthew Young,18.51957,73.85535,Pune,IN,Kolkata,FALSE,TRUE,TRUE,happy
 2020-05-18,2020-07-06,Gene Sexton,Deborah Holden,-7.57897,112.23109,Diwek,ID,Jakarta,TRUE,TRUE,TRUE,oblivious
@@ -3117,7 +3117,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2005-12-03,2005-12-18,Ricky Owen,Brett Scott,25.80565,68.49143,Bhit Shah,PK,Karachi,FALSE,FALSE,TRUE,unhappy
 1991-01-05,1991-01-23,Penny Bowers,Charlene Mccormick,31.71667,73.38333,Sangla Hill,PK,Karachi,FALSE,TRUE,TRUE,over-complimenting
 2010-01-03,2010-02-19,Robert Edwards,Ashley Larson,33.78333,114.51667,Wacheng,CN,Shanghai,TRUE,FALSE,TRUE,tense
-1999-06-04,1999-06-13,Mark Santiago,Denise Kramer,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,TRUE,FALSE,TRUE,fleeing
+1999-06-04,1999-06-13,Mark Santiago,Denise Kramer,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,TRUE,FALSE,TRUE,fleeing
 1988-05-30,1988-07-24,Frank Crawford,Ray Hall,18.87813,72.93924,Uran,IN,Kolkata,FALSE,TRUE,TRUE,over-complimenting
 2021-03-06,2021-04-26,Adam Mann,Amanda Petersen DDS,32.54278,111.50861,Danjiangkou,CN,Shanghai,FALSE,TRUE,TRUE,talkative
 2009-02-06,2009-03-20,Leslie Trujillo,Jacob Carlson,10.12268,77.54372,Periyakulam,IN,Kolkata,FALSE,FALSE,TRUE,friendly
@@ -3171,7 +3171,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2022-06-10,2022-06-15,Julia Nelson,Carrie Jones,22.88783,84.13864,Jashpurnagar,IN,Kolkata,FALSE,FALSE,TRUE,confessing
 1994-07-13,1994-08-11,April Roberson,Timothy Maldonado,25.49043,85.94001,Teghra,IN,Kolkata,FALSE,TRUE,TRUE,fleeing
 1990-10-11,1990-12-07,Ashley Kelley,Courtney Thompson,14.64056,104.64992,Kantharalak,TH,Bangkok,FALSE,TRUE,TRUE,confessing
-2009-02-10,2009-03-10,Todd Robinson,Sandra Ramos,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,sad
+2009-02-10,2009-03-10,Todd Robinson,Sandra Ramos,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,sad
 2015-11-20,2015-12-08,Christopher Garza,Melissa Meyers,29.98869,122.20488,Zhoushan,CN,Shanghai,FALSE,TRUE,TRUE,out-of-control
 1989-03-22,1989-04-11,Diana Franco,Rhonda Jones,14.66,120.56528,Pilar,PH,Manila,FALSE,TRUE,TRUE,insulting
 2008-03-30,2008-05-08,Aaron Williams,Lauren Johnson,38.55632,69.01354,Vahdat,TJ,Dushanbe,FALSE,TRUE,FALSE,silent
@@ -3187,7 +3187,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1985-11-06,1985-11-24,James Murphy,Kurt Clark,9.82564,78.25795,Tiruppuvanam,IN,Kolkata,TRUE,FALSE,TRUE,silent
 1992-01-05,1992-01-12,William Wiggins,Ashley Vaughn,45.47885,133.42825,Lesozavodsk,RU,Vladivostok,FALSE,TRUE,FALSE,silent
 2020-01-04,2020-01-25,Carolyn Holder,Jared Reid,26.9423,68.11759,Tharu Shah,PK,Karachi,FALSE,FALSE,TRUE,accusatory
-2016-04-04,2016-04-25,Angela Gomez,Cynthia Carr,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,TRUE,TRUE,evasive
+2016-04-04,2016-04-25,Angela Gomez,Cynthia Carr,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,TRUE,TRUE,evasive
 2001-01-07,2001-01-08,Tammy Howard,Sarah Brown,38.40917,112.73333,Xinzhou,CN,Shanghai,FALSE,TRUE,TRUE,hostile
 2012-01-03,2012-01-31,Collin Ramos,Rachel Martin,26.2649,81.54855,Jais,IN,Kolkata,FALSE,TRUE,TRUE,hostile
 2005-03-15,2005-03-23,Michelle Martinez,Ronald Wong PhD,18.87813,72.93924,Uran,IN,Kolkata,FALSE,TRUE,FALSE,talkative
@@ -3254,7 +3254,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2008-03-11,2008-04-26,Kurt Holmes,Chad Graham,17.30858,97.01124,Kyaikto,MM,Yangon,FALSE,FALSE,TRUE,injured
 2001-07-14,2001-08-08,Gwendolyn Gill,Billy White,26.9423,68.11759,Tharu Shah,PK,Karachi,FALSE,TRUE,TRUE,complaining
 1992-12-30,1993-02-01,Gabriela Spencer,Chad Graham,23.9028,89.11943,Kushtia,BD,Dhaka,FALSE,TRUE,TRUE,confessing
-1985-04-23,1985-04-30,Matthew White,Jesse Boyd,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,TRUE,TRUE,TRUE,oblivious
+1985-04-23,1985-04-30,Matthew White,Jesse Boyd,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,TRUE,TRUE,TRUE,oblivious
 2014-09-15,2014-09-15,Mr. Mark Jensen,Grant Humphrey,43.41949,77.0202,Otegen Batyra,KZ,Almaty,FALSE,TRUE,TRUE,out-of-control
 1986-10-08,1986-12-02,Stephen Flores,Samuel Jackson,35,136.51667,Komono,JP,Tokyo,FALSE,FALSE,TRUE,fleeing
 2018-12-24,2019-01-28,Matthew Lee,Darrell Crawford,9.6531,124.3697,Jagna,PH,Manila,FALSE,TRUE,TRUE,over-complimenting
@@ -3266,7 +3266,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2017-05-31,2017-06-23,David Steele,Daniel Brown,26.44931,91.61356,Rangia,IN,Kolkata,TRUE,FALSE,TRUE,over-complimenting
 1993-12-06,1994-01-16,Jennifer Dunn,Shannon Camacho,21.53889,71.57737,Gariadhar,IN,Kolkata,FALSE,FALSE,TRUE,evasive
 2002-01-12,2002-02-15,William Miller,Terry Erickson,11.00599,77.5609,Kangayam,IN,Kolkata,FALSE,TRUE,TRUE,hostile
-1994-08-19,1994-10-02,Michael Anderson,Jorge Novak,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,fleeing
+1994-08-19,1994-10-02,Michael Anderson,Jorge Novak,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,fleeing
 1999-06-17,1999-08-11,Michael Brandt,Emily Stephens,4.88441,101.96857,Gua Musang,MY,Kuala Lumpur,FALSE,FALSE,TRUE,happy
 2018-03-29,2018-04-22,Katrina Garrett,Brian Delacruz,38.45598,48.87498,Astara,AZ,Baku,FALSE,FALSE,TRUE,complaining
 2007-03-13,2007-05-02,Stephanie Weaver,Donald Miller,-1.26753,116.82887,Balikpapan,ID,Makassar,FALSE,FALSE,TRUE,paranoid
@@ -3316,7 +3316,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2010-05-07,2010-06-29,Amanda Mitchell PhD,Zachary Moore,28.71271,77.656,Pilkhua,IN,Kolkata,FALSE,FALSE,TRUE,injured
 1997-04-30,1997-06-15,Samuel Taylor,Mallory Wu,18.51957,73.85535,Pune,IN,Kolkata,FALSE,TRUE,TRUE,silent
 1998-01-15,1998-02-15,Yvette Lewis,Patricia Hall,27.85,112.9,Xiangtan,CN,Shanghai,FALSE,TRUE,TRUE,unhappy
-1986-08-30,1986-08-30,Paula Frey,James Kennedy,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,over-complimenting
+1986-08-30,1986-08-30,Paula Frey,James Kennedy,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,over-complimenting
 2012-06-08,2012-06-21,Ronald Ramos,Jorge Novak,33.3213,130.94098,Hita,JP,Tokyo,FALSE,FALSE,TRUE,over-complimenting
 1986-11-21,1986-12-15,Matthew Castro,Donald Pierce,58.23583,92.48278,Lesosibirsk,RU,Krasnoyarsk,FALSE,FALSE,TRUE,out-of-control
 2016-10-30,2016-11-27,Cheryl Smith,Julian Anderson,25.66795,85.83636,Dalsingh Sarai,IN,Kolkata,FALSE,FALSE,TRUE,out-of-control
@@ -3357,7 +3357,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2000-03-23,2000-04-23,John Diaz,Katelyn Garcia,22.37066,114.10479,Tsuen Wan,HK,Hong Kong,FALSE,TRUE,TRUE,scared
 2003-09-22,2003-10-27,Jeffrey Rivas,Lindsey Wheeler,25.75728,75.37991,Deoli,IN,Kolkata,FALSE,FALSE,TRUE,confessing
 2007-10-03,2007-11-27,Daniel Jackson,Steven Lee,31.71667,73.38333,Sangla Hill,PK,Karachi,TRUE,FALSE,TRUE,scared
-1986-12-21,1987-01-31,Tyler Fuller,Kerri Clay,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,TRUE,TRUE,TRUE,friendly
+1986-12-21,1987-01-31,Tyler Fuller,Kerri Clay,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,TRUE,TRUE,TRUE,friendly
 1987-06-23,1987-06-27,Matthew Reynolds,Diana Torres,-6.48167,106.85417,Cibinong,ID,Jakarta,FALSE,TRUE,TRUE,happy
 1993-07-06,1993-08-11,Melissa Brown,Dawn Simmons,32.05971,34.8732,Ganei Tikva,IL,Jerusalem,FALSE,TRUE,TRUE,evasive
 2017-12-25,2017-12-26,Natasha Flores,Barbara Bailey,38.45598,48.87498,Astara,AZ,Baku,FALSE,TRUE,TRUE,oblivious
@@ -3371,7 +3371,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1986-09-20,1986-11-16,Kimberly Guerrero,Jacqueline Maldonado,13.8196,100.04427,Nakhon Pathom,TH,Bangkok,FALSE,FALSE,TRUE,out-of-control
 1988-05-20,1988-07-11,Corey Cole,Ashley Farrell,24.28859,116.11768,Meizhou,CN,Shanghai,FALSE,TRUE,TRUE,friendly
 2007-07-28,2007-09-01,Latoya Ward,Sarah Green,34.61667,135.6,Yao,JP,Tokyo,FALSE,TRUE,TRUE,panicking
-2021-06-12,2021-07-26,Crystal Wagner,Christopher Morrison,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,FALSE,FALSE,TRUE,lonely
+2021-06-12,2021-07-26,Crystal Wagner,Christopher Morrison,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,FALSE,FALSE,TRUE,lonely
 1997-05-17,1997-05-28,Debra Garcia,Denise Kramer,36.53333,136.61667,Nonoichi,JP,Tokyo,FALSE,TRUE,TRUE,lonely
 1999-01-24,1999-01-29,Mrs. Dominique Hernandez,Mr. Shannon Sharp,35.815,139.6853,Shimotoda,JP,Tokyo,FALSE,TRUE,TRUE,insulting
 2004-02-23,2004-03-03,Dustin Boyd,Melinda Soto,24.05979,77.40858,Leteri,IN,Kolkata,FALSE,TRUE,TRUE,happy
@@ -3455,7 +3455,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2015-04-17,2015-06-04,John Wang,Ernest Spencer,30.76468,74.12286,Kanganpur,PK,Karachi,FALSE,TRUE,TRUE,silent
 2018-11-11,2018-12-29,Abigail Hernandez,Denise Johnson,2.2139,102.3278,Kampung Ayer Molek,MY,Kuala Lumpur,FALSE,FALSE,TRUE,out-of-control
 2015-02-19,2015-03-29,Austin Romero,Julie Nguyen,31.64615,120.74221,Changshu City,CN,Shanghai,FALSE,TRUE,TRUE,sad
-1990-05-21,1990-07-14,Andrew Spence,Terry Erickson,54.48147,53.47103,Oktyabr‚Äôskiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,talkative
+1990-05-21,1990-07-14,Andrew Spence,Terry Erickson,54.48147,53.47103,Oktyabrï¿½ï¿½ï¿½skiy,RU,Yekaterinburg,FALSE,TRUE,TRUE,talkative
 2001-08-17,2001-09-25,Leslie Park,Thomas Hamilton,42.64031,125.51176,Dongfeng,CN,Shanghai,FALSE,FALSE,TRUE,tense
 2008-03-05,2008-04-05,Brenda Evans,Michael Barron,-8.99167,125.21972,Maliana,TL,Dili,FALSE,TRUE,TRUE,sad
 1998-08-05,1998-09-23,Ashlee Morris,Shawn Huang,31.64615,120.74221,Changshu City,CN,Shanghai,FALSE,FALSE,TRUE,lonely
@@ -3578,7 +3578,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2016-03-04,2016-04-26,Justin Gibbs,Sarah Reynolds,43.82634,144.09638,Motomachi,JP,Tokyo,FALSE,FALSE,TRUE,happy
 2016-04-07,2016-05-10,Mrs. Monique Chapman,Thomas Hamilton,-8.99167,125.21972,Maliana,TL,Dili,FALSE,TRUE,TRUE,friendly
 1994-03-26,1994-04-29,Kelly Dixon,Misty Young,35.20889,111.73861,Changzhi,CN,Shanghai,FALSE,TRUE,TRUE,worried
-1999-01-19,1999-02-12,James Rivera,Ms. Sheila Campbell MD,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,FALSE,FALSE,unhappy
+1999-01-19,1999-02-12,James Rivera,Ms. Sheila Campbell MD,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,FALSE,FALSE,unhappy
 2022-01-06,2022-01-24,Scott Benson,Melissa Meyers,58.63667,59.80222,Lesnoy,RU,Yekaterinburg,FALSE,TRUE,TRUE,sad
 2003-02-16,2003-02-19,Brandon Jones,Nathaniel Jackson,-7.0981,109.3243,Randudongkal,ID,Jakarta,TRUE,TRUE,TRUE,friendly
 2014-02-06,2014-02-20,Travis Fletcher,John Barr,46.08333,122.08333,Ulanhot,CN,Shanghai,FALSE,TRUE,TRUE,scared
@@ -3683,7 +3683,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1987-12-31,1988-02-16,Antonio Butler,Garrett Lawrence,30.35028,112.19028,Jingzhou,CN,Shanghai,TRUE,TRUE,TRUE,insulting
 1999-07-21,1999-08-03,Julie Robinson,Shelley Sheppard,51.78771,56.36091,Saraktash,RU,Yekaterinburg,FALSE,FALSE,FALSE,injured
 2021-04-11,2021-04-21,Christine Garcia,Rebecca Jackson,10.31672,123.89071,Cebu City,PH,Manila,FALSE,TRUE,TRUE,sad
-2003-02-14,2003-04-06,Heidi Moore,Beth Cuevas,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,fleeing
+2003-02-14,2003-04-06,Heidi Moore,Beth Cuevas,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,fleeing
 2001-02-23,2001-03-31,Jill Johnson,Chad Graham,31.92923,34.86563,Ramla,IL,Jerusalem,FALSE,TRUE,TRUE,hostile
 1989-01-31,1989-02-11,James White,Carrie Jones,56.11281,69.49015,Ishim,RU,Yekaterinburg,FALSE,TRUE,TRUE,panicking
 1989-06-15,1989-07-17,Joseph Caldwell,Logan Duncan,16.06213,76.0586,Hungund,IN,Kolkata,FALSE,FALSE,TRUE,complaining
@@ -3696,7 +3696,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 2002-04-07,2002-05-13,Clayton King,Tiffany Bennett,26.9423,68.11759,Tharu Shah,PK,Karachi,FALSE,FALSE,TRUE,silent
 2015-09-09,2015-09-22,Danielle Buckley,Melinda Evans,30.35028,112.19028,Jingzhou,CN,Shanghai,FALSE,TRUE,TRUE,happy
 2003-08-04,2003-08-23,Amber Lawson,Erin Ray,40.78206,72.34424,Andijon,UZ,Tashkent,FALSE,TRUE,TRUE,accusatory
-1992-01-17,1992-01-31,Curtis Lang PhD,Natalie Patrick,37.1759,128.9889,T‚Äôaebaek,KR,Seoul,TRUE,TRUE,TRUE,complaining
+1992-01-17,1992-01-31,Curtis Lang PhD,Natalie Patrick,37.1759,128.9889,Tï¿½ï¿½ï¿½aebaek,KR,Seoul,TRUE,TRUE,TRUE,complaining
 2008-04-09,2008-05-06,Erik Harris,Meghan Owens,31.96258,73.97117,Naushahra Virkan,PK,Karachi,FALSE,FALSE,TRUE,worried
 2005-11-13,2005-12-10,Gavin Reed,Michael Maynard,-6.8048,110.8405,Kudus,ID,Jakarta,FALSE,TRUE,TRUE,worried
 2007-12-01,2008-01-05,Kelly Patel,Shelia Holmes,36.82167,128.63083,Eisen,KR,Seoul,TRUE,TRUE,TRUE,tense
@@ -3707,7 +3707,7 @@ sighting,??,citizen,officer,??,??,city,nation,city_interpol,has_weapon,has_hat,h
 1996-03-11,1996-04-13,Daniel Murray Jr.,Rebecca Jackson,58.7002,59.4839,Kachkanar,RU,Yekaterinburg,FALSE,TRUE,TRUE,panicking
 2021-03-19,2021-05-08,Veronica Orr,Kevin Evans,34.08565,74.80555,Srinagar,IN,Kolkata,FALSE,FALSE,TRUE,scared
 2012-09-03,2012-10-26,Lisa Farmer,Jimmy Patel,31.96258,73.97117,Naushahra Virkan,PK,Karachi,FALSE,FALSE,TRUE,confessing
-2008-09-23,2008-11-18,Allison Austin,Gregory Hanson,27.52948,68.75915,Khairpur Mir‚Äôs,PK,Karachi,FALSE,TRUE,TRUE,unhappy
+2008-09-23,2008-11-18,Allison Austin,Gregory Hanson,27.52948,68.75915,Khairpur Mirï¿½ï¿½ï¿½s,PK,Karachi,FALSE,TRUE,TRUE,unhappy
 2008-11-14,2008-12-21,John Valenzuela,Leslie Curtis,65.93381,111.4834,Aykhal,RU,Yakutsk,FALSE,TRUE,TRUE,scared
 1993-10-18,1993-11-19,Brittany Torres,Brittany Burnett,29.22254,79.5286,Haldwani,IN,Kolkata,TRUE,FALSE,TRUE,silent
 1986-07-03,1986-07-19,Brandy Bradley,Christopher Greer,21.46527,83.97573,Sambalpur,IN,Kolkata,TRUE,TRUE,TRUE,friendly

@@ -31,6 +31,8 @@ clean-targets:         # directories to be removed by `dbt clean`
 # files using the `{{ config(...) }}` macro.
 models:
   carmen_dbt:
-    # Config indicated by + and applies to all files under models/example/
-    example:
+  # Marts materliaze as views for reporting purposes
+    mart:
       +materialized: view
+dbt-cloud:
+    project-id: 70471823463035
