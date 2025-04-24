@@ -1,5 +1,5 @@
 SELECT
-    row_number() over (order by date_witness) as witness_date_id,
+    {{ dbt_utils.surrogate_key(['date_witness']) }} as date_witness_id,
     date_witness,
     date_agent
 FROM {{ ref('int_sightings_all') }}

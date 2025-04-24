@@ -1,4 +1,4 @@
 select
-    row_number() over (order by agent) as agent_id,
+    {{ dbt_utils.surrogate_key(['agent']) }} as agent_id,
     agent
 from {{ ref('int_sightings_all') }}

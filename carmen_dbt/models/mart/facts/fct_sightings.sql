@@ -39,7 +39,7 @@ left join (
   on i.behavior = b.behavior
 
 left join (
-  select distinct date_witness, witness_date_id
+  select distinct date_witness, date_witness_id
   from {{ ref('dim_date') }}
 ) d
   on i.date_witness = d.date_witness
