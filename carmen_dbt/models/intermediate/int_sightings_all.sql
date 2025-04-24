@@ -25,7 +25,7 @@ with deduplicated_staging as (
         has_jacket,
         behavior
     from {{ ref(model) }}
-    {% if not loop.last %}union all{% endif %}
+    {% if not loop.last %}union{% endif %}
     {% endfor %}
 )
 
