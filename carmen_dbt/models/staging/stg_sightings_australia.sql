@@ -1,6 +1,6 @@
 
 with raw_australia as (
-    select
+    select distinct
         date_witness,
         date_agent,
         witness,
@@ -14,7 +14,7 @@ with raw_australia as (
         has_hat,
         has_jacket,
         behavior
-    from {{ source('sources','carmen_sightings__australia') }}
+    from {{ source('sightings_sources','carmen_sightings__australia') }}
 )
 
 select

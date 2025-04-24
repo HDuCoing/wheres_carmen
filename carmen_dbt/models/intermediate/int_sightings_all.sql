@@ -1,52 +1,46 @@
-/*
-This models purpose is to transform all the stage models into a single table that can be funnelled into the mart layer.
-*/
-
-with africa as ( 
-    select *, 'africa' AS region FROM {{ ref("stg_sightings_africa")}}
-),
-
-america as ( 
-    select *, 'america' AS region FROM {{ ref("stg_sightings_america")}}
-),
-
-asia as ( 
-    select *, 'asia' AS region FROM {{ ref("stg_sightings_asia")}}
-),
-
-atlantic as ( 
-    select *, 'atlantic' AS region FROM {{ ref("stg_sightings_atlantic")}}
-),
-
-australia as ( 
-    select *, 'australia' AS region FROM {{ ref("stg_sightings_australia")}}
-),
-
-europe as ( 
-    select *, 'europe' AS region FROM {{ ref("stg_sightings_europe")}}
-),
-
-indian as ( 
-    select *, 'indian' AS region FROM {{ ref("stg_sightings_indian")}}
-),
-
-pacific as ( 
-    select *, 'pacific' AS region FROM {{ ref("stg_sightings_pacific")}}
+{% set models = [
+    'stg_sightings_africa',
+    'stg_sightings_america',
+    'stg_sightings_asia',
+    'stg_sightings_atlantic',
+    'stg_sightings_australia',
+    'stg_sightings_europe',
+    'stg_sightings_indian',
+    'stg_sightings_pacific'
+] %}
+with deduplicated_staging as (
+    {% for model in models %}
+    select distinct
+        date_witness,
+        date_agent,
+        witness,
+        agent,
+        latitude,
+        longitude,
+        city,
+        country_code,
+        city_agent,
+        has_weapon,
+        has_hat,
+        has_jacket,
+        behavior
+    from {{ ref(model) }}
+    {% if not loop.last %}union all{% endif %}
+    {% endfor %}
 )
 
-
-SELECT * FROM africa
-UNION
-SELECT * FROM america
-UNION
-SELECT * FROM asia
-UNION
-SELECT * FROM atlantic
-UNION
-SELECT * FROM australia
-UNION
-SELECT * FROM europe
-UNION
-SELECT * FROM indian
-UNION
-SELECT * FROM pacific
+select distinct
+    date_witness,
+    date_agent,
+    witness,
+    agent,
+    latitude,
+    longitude,
+    city,
+    country_code,
+    city_agent,
+    has_weapon,
+    has_hat,
+    has_jacket,
+    behavior
+from deduplicated_staging

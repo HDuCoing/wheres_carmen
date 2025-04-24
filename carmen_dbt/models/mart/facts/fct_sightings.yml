@@ -5,7 +5,7 @@ models:
     description: Fact table containing sighting events for carmen. There are unique foreign keys for each dimension table.
     columns:
       - name: agent_id
-        description: Foreign key to dim_agent.
+        description: surrogate key to dim_agent.
         tests:
           - not_null
           - relationships:
@@ -13,7 +13,7 @@ models:
               field: agent_id
 
       - name: witness_id
-        description: Foreign key to dim_witness.
+        description: surrogate key to dim_witness.
         tests:
           - not_null
           - relationships:
@@ -21,7 +21,7 @@ models:
               field: witness_id
 
       - name: behavior_id
-        description: Foreign key to dim_behavior.
+        description: surrogate key to dim_behavior.
         tests:
           - not_null
           - relationships:
@@ -29,7 +29,7 @@ models:
               field: behavior_id
 
       - name: witness_date_id
-        description: Foreign key to dim_date (witness date).
+        description: surrogate key to dim_date (witness date).
         tests:
           - not_null
           - relationships:
@@ -37,7 +37,7 @@ models:
               field: date_id
 
       - name: agent_date_id
-        description: Foreign key to dim_date (agent date).
+        description: surrogate key to dim_date (agent date).
         tests:
           - not_null
           - relationships:
@@ -45,7 +45,7 @@ models:
               field: date_id
 
       - name: location_id
-        description: Foreign key to dim_location.
+        description: surrogate key to dim_location.
         tests:
           - not_null
           - relationships:

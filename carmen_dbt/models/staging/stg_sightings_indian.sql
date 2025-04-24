@@ -1,6 +1,6 @@
 
 with raw_indian as (
-    select
+    select distinct
         date_witness,
         date_agent,
         witness,
@@ -14,7 +14,7 @@ with raw_indian as (
         has_hat,
         has_jacket,
         behavior
-    from {{ source('sources','carmen_sightings__indian') }}
+    from {{ source('sightings_sources','carmen_sightings__indian') }}
 )
 
 select
