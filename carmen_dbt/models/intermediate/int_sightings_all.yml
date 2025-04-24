@@ -30,5 +30,3 @@ models:
         description: "{{ doc('has_jacket') }}"
       - name: behavior
         description: "{{ doc('behavior') }}"
-      - name: region
-        description: "The region where the sighting occurred, derived from the source model name."
