@@ -24,16 +24,14 @@ clean-targets:
 
 # Model folders within the project and their materialization overhauls
 models:
-  carmen_dbt:
-  # Marts materliaze as tables for reporting and analysis
-    mart:
-      +materialized: table
-  # Staging models materialize as tables for performance and easy cleaning (or joining in this case)
-    staging:
-      +materialized: view
+# Marts materliaze as tables for reporting and analysis
+  mart:
+    +materialized: table
+# Staging models materialize as tables for performance and easy cleaning (or joining in this case)
+  staging:
+    +materialized: view
 seeds:
-  carmen_dbt:
-    +schema: sources
+  +schema: sources
 
 # Dbt cloud configuration
 # Full documentation: https://docs.getdbt.com/docs/dbt-cloud/dbt-cloud-cli
