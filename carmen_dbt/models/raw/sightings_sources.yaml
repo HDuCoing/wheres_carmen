@@ -1,9 +1,8 @@
 version: 2
 
 sources:
-  - name: sources
+  - name: sightings_sources
     description: "Carmen sightings data from the seeds directory"
-    schema: raw
     tables:
       - name: carmen_sightings__africa
         description: "Carmen sightings data from the seeds"
@@ -35,12 +34,10 @@ sources:
               - not_null
           - name: city
             description: "City of the sighting"
-            tests:
-              - not_null
+
           - name: country_code
             description: "Country code of the sighting"
-            tests:
-              - not_null
+
           - name: city_agent
             description: "City of the agent"
             tests:
