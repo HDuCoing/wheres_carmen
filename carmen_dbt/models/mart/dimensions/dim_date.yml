@@ -4,7 +4,7 @@ models:
   - name: dim_date
     description: Date dimension created from both date_witness and date_agent.
     columns:
-      - name: witness_date_id
+      - name: date_witness_id
         description: Surrogate key for date.
         tests:
           - unique
