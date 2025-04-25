@@ -1,1 +1,1 @@
-{{ generate_staging_model('carmen_sightings__asia') }}
+{{ generate_staging_model('carmen_sightings__asia','asia') }}

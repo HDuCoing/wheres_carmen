@@ -30,3 +30,4 @@ models:
         description: "{{ doc('has_jacket') }}"
       - name: behavior
         description: "{{ doc('behavior') }}"
+      - name: region

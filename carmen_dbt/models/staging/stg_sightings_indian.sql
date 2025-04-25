@@ -1,1 +1,1 @@
-{{ generate_staging_model('carmen_sightings__indian') }}
+{{ generate_staging_model('carmen_sightings__indian','indian') }}

@@ -3,5 +3,6 @@ SELECT distinct
     latitude,
     longitude,
     city,
-    country_code
+    country_code,
+    region
 FROM {{ ref('int_sightings_all') }}

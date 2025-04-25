@@ -1,1 +1,1 @@
-{{ generate_staging_model('carmen_sightings__atlantic') }}
+{{ generate_staging_model('carmen_sightings__atlantic','atlantic') }}

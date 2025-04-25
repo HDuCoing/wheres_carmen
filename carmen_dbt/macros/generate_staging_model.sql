@@ -1,4 +1,4 @@
-{% macro generate_staging_model(seed_name) %}
+{% macro generate_staging_model(seed_name, region) %}
 select distinct
     date_witness,
     date_agent,
@@ -12,6 +12,7 @@ select distinct
     has_weapon,
     has_hat,
     has_jacket,
-    behavior
+    behavior,
+    '{{ region }}' as region,
 from {{ source('sightings_sources', seed_name) }}
 {% endmacro %}

@@ -4,6 +4,7 @@ select
   b.behavior_id,
   d.date_witness_id,
   l.location_id,
+  i.region,
   i.date_witness,
   i.date_agent,
   i.witness,
