@@ -2,7 +2,7 @@ select
   a.agent_id,
   w.witness_id,
   b.behavior_id,
-  d.witness_date_id,
+  d.date_witness_id,
   l.location_id,
   i.date_witness,
   i.date_agent,
