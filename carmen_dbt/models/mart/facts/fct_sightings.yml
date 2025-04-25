@@ -36,14 +36,6 @@ models:
               to: ref('dim_date')
               field: date_witness_id
 
-      - name: agent_date_id
-        description: surrogate key to dim_date (agent date).
-        tests:
-          - not_null
-          - relationships:
-              to: ref('dim_date')
-              field: date_id
-
       - name: location_id
         description: surrogate key to dim_location.
         tests:

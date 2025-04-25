@@ -1,4 +1,4 @@
-SELECT
+SELECT distinct
     {{ dbt_utils.generate_surrogate_key(['latitude', 'longitude']) }} as location_id,
     latitude,
     longitude,
