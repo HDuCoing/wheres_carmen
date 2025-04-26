@@ -1,29 +1,39 @@
 # quick example exposure
 exposures:
   - name: probability_of_top_behaviors
-    type: analyses
+    type: analysis
     owner:
       name: dev
     description: >
       Adhoc analysis to determine the probability of the top three behaviors for each month
+    depends_on:
+      - ref('fct_sightings')
+      - ref('most_common_behaviors')
+
 
   - name: most_common_behaviors
-    type: analyses
+    type: analysis
     owner:
       name: dev
     description: >
       Adhoc analysis identifies the three most common 
+    depends_on:
+      - ref('fct_sightings')
   
   - name: outfit_probability
-    type: analyses
+    type: analysis
     owner:
       name: dev
     description: >
       Adhoc analysis to determine the probability of outfits
-  
+    depends_on:
+      - ref('fct_sightings')
+
   - name: monthly_sightings_by_region
-    type: analyses
+    type: analysis
     owner:
       name: dev
     description: >
       Adhoc analysis to determine the number of sightings by region for each month
+    depends_on:
+      - ref('fct_sightings')
