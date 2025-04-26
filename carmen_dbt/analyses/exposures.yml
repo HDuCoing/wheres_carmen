@@ -1,0 +1,29 @@
+# quick example exposure
+exposures:
+  - name: probability_of_top_behaviors
+    type: analyses
+    owner:
+      name: dev
+    description: >
+      Adhoc analysis to determine the probability of the top three behaviors for each month
+
+  - name: most_common_behaviors
+    type: analyses
+    owner:
+      name: dev
+    description: >
+      Adhoc analysis identifies the three most common 
+  
+  - name: outfit_probability
+    type: analyses
+    owner:
+      name: dev
+    description: >
+      Adhoc analysis to determine the probability of outfits
+  
+  - name: monthly_sightings_by_region
+    type: analyses
+    owner:
+      name: dev
+    description: >
+      Adhoc analysis to determine the number of sightings by region for each month
