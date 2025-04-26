@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: monthly_sightings_by_region
+    description: ""
+    columns:
+      - name: month
+      - name: region
+      - name: sightings_count

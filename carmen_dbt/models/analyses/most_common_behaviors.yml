@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: most_common_behaviors
+    description: ""
+    columns:
+      - name: sightings_count
+      - name: behavior
+      - name: date_witness

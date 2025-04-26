@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: probability_of_top_behaviors
+    description: ""
+    columns:
+      - name: month
+      - name: top_sightings_count
+      - name: total_sightings
+      - name: probability

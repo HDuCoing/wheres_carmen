@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: outfit_probability
+    description: ""
+    columns:
+      - name: month
+      - name: count_sightings
+      - name: total_sightings
+      - name: probability
