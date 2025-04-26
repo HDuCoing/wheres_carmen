@@ -1,6 +1,41 @@
 # wheres_carmen?!?!?!? 
-
-## Process
+## Setup
+1. Ensure you have DBT 
+```bash
+pip install dbt-core dbt-snowflake
+```
+2. Clone Repo & Navigate to DBT
+```bash
+git clone https://github.com/HDuCoing/wheres_carmen.git
+cd wheres_carmen
+```
+3. Ensure to set up your profiles.yml in `~/user/.dbt`
+```yaml
+carmen_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <your_account>
+      user: <your_username>
+      password: <your_password>
+      role: <your_role>
+      database: <your_database>
+      warehouse: <your_warehouse>
+      schema: <your_default_schema>
+      threads: <number_of_thread>
+```
+4. Run DBT set up commands
+```bash
+dbt deps
+dbt debug
+dbt seed
+dbt run
+dbt test
+dbt docs generate
+dbt docs serve
+```
+## Project Process
 1. This project takes in raw data as seeds and creates them into source tables as the starting step.
 
 2. There is a default schema set in Profiles.yml, but each folders has a override schema within the dbt_project. While this isn't always ideal or well-liked that's just what I ended up doing for this.
