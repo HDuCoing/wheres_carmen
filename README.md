@@ -36,6 +36,23 @@ dbt test
 dbt docs generate
 dbt docs serve
 ```
+## Questions
+#### a. For each month, which agency region is Carmen Sandiego most likely to be found?
+
+After building monthly_sightings_by_region analytical model I see that the most common region occurence is 'europe' counting all sightings and windowing them by region.
+
+#### b. Also for each month, what is the probability that Ms. Sandiego is armed AND wearing a jacket, but NOT a hat? What general observations about Ms. Sandiego can you make from this?
+
+I built outfit_probability (or rizz as they say) to take all sightings * 1.0 (to indicate 100%) and divided it by total sightings for a given month. 0 indicating 0% and 1 indicatig 100%. There are a range of values depending.
+
+#### c. What are the three most occuring behaviors of Ms. Sandiego?
+
+This was done using a ranking window, I retrieved all the behaviors from each sighting and ranked the top behaviors, then I just grabbed the top 3.
+
+#### d. For each month, what is the probability Ms. Sandiego exhibits one of her three most occurring behaviors?
+
+For this one I leveraged the previously built model most_common_behaviors to grant me the top 3, then I used the count of total sightings by month and used these values to calculate the probability. Note: doing this method means most_common_behaviors must be built first.
+
 ## Project Process
 1. This project takes in raw data as seeds and creates them into source tables as the starting step.
 
