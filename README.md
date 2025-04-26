@@ -1,6 +1,7 @@
 # wheres_carmen?!?!?!? 
 ## Setup
 1. Ensure you have DBT 
+Note: This project uses Snowflake.
 ```bash
 pip install dbt-core dbt-snowflake
 ```
@@ -74,3 +75,9 @@ The staging area will use the source tables as building blocks to put neatly int
 
 The DAG ends up looking like this:
 ![DAG](images/modelDAG.png "DAG of DBT Structure")
+
+Overall DBT project structure:
+![DBTProcess](images/dbt_process_model.png "DBT Process overall")
+
+Fact & Dimension data model:
+![fctdim](images/fact_dimension_model.png "Fact and dimensions table data model")
