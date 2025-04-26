@@ -5,8 +5,8 @@ with behavior_counts as (
         behavior,
         date_witness,
         count(*) as sightings_count
-    from fct_sightings
-    group by behavior
+    from {{ ref('fct_sightings') }}
+    group by behavior, date_witness
 ),
 -- rank the behaviors based on counts
 ranked_behavior as (
