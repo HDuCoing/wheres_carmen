@@ -6,6 +6,7 @@ models:
     columns:
       - name: agent_id
         description: surrogate key to dim_agent.
+        data_type: integer
         tests:
           - not_null
           - relationships:
@@ -14,6 +15,7 @@ models:
 
       - name: witness_id
         description: surrogate key to dim_witness.
+        data_type: integer
         tests:
           - not_null
           - relationships:
@@ -22,6 +24,7 @@ models:
 
       - name: behavior_id
         description: surrogate key to dim_behavior.
+        data_type: integer
         tests:
           - not_null
           - relationships:
@@ -30,6 +33,7 @@ models:
 
       - name: date_witness_id
         description: surrogate key to dim_date (witness date).
+        data_type: integer
         tests:
           - not_null
           - relationships:
@@ -38,6 +42,7 @@ models:
 
       - name: location_id
         description: surrogate key to dim_location.
+        data_type: integer
         tests:
           - not_null
           - relationships:
@@ -46,9 +51,12 @@ models:
 
       - name: has_weapon
         description: "{{ doc('has_weapon') }}"
+        data_type: boolean
 
       - name: has_hat
         description: "{{ doc('has_hat') }}"
+        data_type: boolean
 
       - name: has_jacket
         description: "{{ doc('has_jacket') }}"
+        data_type: boolean

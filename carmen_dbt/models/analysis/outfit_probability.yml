@@ -5,6 +5,14 @@ models:
     description: ""
     columns:
       - name: month
+        description: "{{ doc('month') }}"
+        data_type: date
       - name: count_sightings
+        description: "{{ doc('count_sightings') }}"
+        data_type: integer
       - name: total_sightings
+        description: "{{ doc('total_sightings') }}"
+        data_type: integer
       - name: probability
+        description: "{{ doc('probability') }}"
+        data_type: float

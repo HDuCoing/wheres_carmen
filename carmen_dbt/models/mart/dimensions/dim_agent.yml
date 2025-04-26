@@ -6,8 +6,10 @@ models:
     columns:
       - name: agent_id
         description: Surrogate key for agent.
+        data_type: integer
         tests:
           - unique
           - not_null
       - name: agent
         description: "{{ doc('agent') }}"
+        data_type: string

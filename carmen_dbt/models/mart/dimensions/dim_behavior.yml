@@ -6,8 +6,10 @@ models:
     columns:
       - name: behavior_id
         description: Surrogate key for behavior.
+        data_type: integer
         tests:
           - unique
           - not_null
       - name: behavior
         description: "{{ doc('behavior') }}"
+        data_type: string
