@@ -40,7 +40,8 @@ models:
       +materialized: view
       
     analysis:
-      +schema: analyses
+      +schema: analysis
+      +materialized: table
 
 # Seed configurations
 seeds:
