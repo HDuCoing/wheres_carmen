@@ -21,18 +21,20 @@ docs-paths: ["docs"]
 clean-targets:
   - "target"
   - "dbt_packages"
-
-# Model folders within the project and their materialization overhauls
+# Model configurations
 models:
-# Marts materliaze as tables for reporting and analysis
-  mart:
-    +materialized: table
-# Staging models materialize as tables for performance and easy cleaning (or joining in this case)
   staging:
     +materialized: view
+  mart:
+    dimensions:
+      +materialized: table
+    facts:
+      +materialized: table
+
+# Seed configurations
 seeds:
   +schema: sources
-
+  
 # Dbt cloud configuration
 # Full documentation: https://docs.getdbt.com/docs/dbt-cloud/dbt-cloud-cli
 dbt-cloud:
