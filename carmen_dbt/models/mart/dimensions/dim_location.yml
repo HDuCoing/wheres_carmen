@@ -5,7 +5,7 @@ models:
     description: Dimension table for unique sighting locations.
     columns:
       - name: location_id
-        description: Surrogate key for location.
+        description: "{{ doc('surrogate_key') }}"
         data_type: integer
         tests:
           - unique

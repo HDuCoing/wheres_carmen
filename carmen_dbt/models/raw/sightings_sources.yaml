@@ -8,453 +8,237 @@ sources:
         description: "Carmen sightings data from the seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('behavior') }}"
             
       - name: carmen_sightings__america 
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
-            
+            description: "{{ doc('behavior') }}"
+              
       - name: carmen_sightings__asia
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
-            
+            description: "{{ doc('behavior') }}"
+
       - name: carmen_sightings__atlantic
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
-            
+            description: "{{ doc('behavior') }}"
+
       - name: carmen_sightings__australia
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('behavior') }}"
             
       - name: carmen_sightings__europe 
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
-            
+            description: "{{ doc('behavior') }}"      
       - name: carmen_sightings__indian
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('behavior') }}"
             
       - name: carmen_sightings__pacific
         description: "Carmen sightings data from the Carmen seeds"
         columns:
           - name: date_witness
-            description: "Date of the sighting"
-            tests:
-              - not_null
-              - unique
+            description: "{{ doc('date_witness') }}"
           - name: date_agent
-            description: "Date of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('date_agent') }}"
           - name: witness
-            description: "Witness of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('witness') }}"
           - name: agent
-            description: "Agent of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('agent') }}"
           - name: latitude
-            description: "Latitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('latitude') }}"
           - name: longitude
-            description: "Longitude of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('longitude') }}"
           - name: city
-            description: "City of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('city') }}"
           - name: country_code
-            description: "Country code of the sighting"
-            tests:
-              - not_null
+            description: "{{ doc('country_code') }}"
           - name: city_agent
-            description: "City of the agent"
-            tests:
-              - not_null
+            description: "{{ doc('city_agent') }}"
           - name: has_weapon
-            description: "Has weapon"
-            tests:
-              - not_null
+            description: "{{ doc('has_weapon') }}"
           - name: has_hat
-            description: "Has hat"
-            tests:
-              - not_null
+            description: "{{ doc('has_hat') }}"
           - name: has_jacket
-            description: "Has jacket"
-            tests:
-              - not_null
+            description: "{{ doc('has_jacket') }}"
           - name: behavior
-            description: "Behavior of the agent"
-            tests:
-              - not_null
-            
+            description: "{{ doc('behavior') }}"

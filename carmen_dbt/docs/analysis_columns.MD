@@ -25,3 +25,7 @@ The probability that Ms. Sandiego exhibits a specific behavior or condition, cal
 {% docs top_sightings_count %}
 The total number of sightings for the top three most occurring behaviors in a given month.
 {% enddocs %}
+
+{% docs surrogate_key %}
+A key to uniquely identify a column value within a row.
+{% enddocs %}
