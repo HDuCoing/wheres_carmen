@@ -5,11 +5,7 @@ models:
     description: Fact table containing sighting events for carmen. There are unique foreign keys for each dimension table.
     columns:
       - name: agent_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - not_null
@@ -18,11 +14,7 @@ models:
               field: agent_id
 
       - name: witness_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - not_null
@@ -31,11 +23,7 @@ models:
               field: witness_id
 
       - name: behavior_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - not_null
@@ -44,11 +32,7 @@ models:
               field: behavior_id
 
       - name: date_witness_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - not_null
@@ -57,11 +41,7 @@ models:
               field: date_witness_id
 
       - name: location_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - not_null

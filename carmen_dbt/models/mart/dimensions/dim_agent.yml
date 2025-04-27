@@ -5,11 +5,7 @@ models:
     description: Dimension table for agents.
     columns:
       - name: agent_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - unique

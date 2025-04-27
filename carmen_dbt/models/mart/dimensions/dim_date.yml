@@ -5,11 +5,7 @@ models:
     description: Date dimension created from both date_witness and date_agent.
     columns:
       - name: date_witness_id
-<<<<<<< HEAD
         description: "{{ doc('surrogate_key') }}"
-=======
-        description: "{{ doc(surrogate_key) }}"
->>>>>>> bad125892b9aa2fdc7db0fb6abccac8b0df943cb
         data_type: integer
         tests:
           - unique
