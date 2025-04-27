@@ -5,7 +5,7 @@ models:
     description: Dimension table for behaviors.
     columns:
       - name: behavior_id
-        description: Surrogate key for behavior.
+        description: "{{ doc(surrogate_key) }}"
         data_type: integer
         tests:
           - unique

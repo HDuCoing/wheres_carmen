@@ -5,7 +5,7 @@ models:
     description: Dimension table for witnesses.
     columns:
       - name: witness_id
-        description: Surrogate key for witness.
+        description: "{{ doc(surrogate_key) }}"
         data_type: integer
         tests:
           - unique
